@@ -1,0 +1,12 @@
+device: "cuda"
+seed: 3
+
+# algorithmic components
+defaults:
+  - dataset: Canyon-Gate-Blvd-TX
+#  - agent: IQN
+
+hydra:
+  output_subdir: null
+  run:
+    dir: .

@@ -1,0 +1,5811 @@
+directed: true
+graph:
+  created_date: '2024-12-30 21:01:05'
+  created_with: OSMnx 1.9.4
+  crs: epsg:4326
+  simplified: true
+links:
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAOAAAAF4GxvoF3V8ARct7/xzk+QFhWmpSCd1fAlFD6Qsg5PkBjnL8JhXdXwBYvFobIOT5A
+    ZqNzfop3V8DPglDexzk+QDwtP3CVd1fATKQ0m8c5PkDFru3tlndXwM+CUN7HOT5ABWoxeJh3V8CO
+    k8K8xzk+QOccPBOad1fA6N7DJcc5PkA/Gk6Zm3dXwKbvNQTHOT5AVijS/Zx3V8Bqvd9oxzk+QPAU
+    cqWed1fAADs3bcY5PkAfZcQFoHdXwF9DcFzGOT5AfevDeqN3V8A2sFWCxTk+QBfYYyKld1fATgzJ
+    ycQ5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    CtejcD3+aUA=
+  name: Circle 10 Street
+  oneway: false
+  osmid: 21169977
+  reversed: true
+  source: 227618710
+  target: 227707880
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAQZyHE5h3V8BdpibBGzY+QF6B6EmZd1fAnMWLhSE2PkCxwcJJmndXwKRv0jQoNj5A
+    +G2I8Zp3V8DWrDO+LzY+QLw7Mlabd1fArp6T3jc2PkAzbJT1m3dXwMkE/BpJNj5AehhanZx3V8CB
+    kgILYDY+QG5qoPmcd1fAbCOe7GY2PkCGksmpnXdXwEQy5Nh6Nj5Ax4FXy513V8BlOJ7PgDY+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PN9PjZcaZkA=
+  name: White Oak Road
+  oneway: false
+  osmid: 21169119
+  reversed: false
+  source: 227629920
+  target: 227711613
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAQZyHE5h3V8BdpibBGzY+QN9eiIuSd1fAePghJSw2PkAZDwBmiHdXwFiR0QFJNj5A
+  highway: primary
+  lanes: '3'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XrpJDALzXUA=
+  oneway: false
+  osmid:
+  - 995999634
+  - 995999635
+  ref: TX 12
+  reversed: false
+  source: 227629920
+  target: 227700824
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAQAAAAVcITev13V8D2eYzyzDc+QDIge737d1fAD9b/Ocw3PkAbLJyk+XdXwLWK/tDMNz5A
+    jgdb7PZ3V8CM9+P2yzc+QMpt+x71d1fA6/8c5ss3PkCX4qqy73dXwMJsAgzLNz5AsHJoke13V8Bu
+    3jgpzDc+QJl+iXjrd1fA6/8c5ss3PkAjgnFw6XdXwCzvqgfMNz5AHY6u0t13V8AJGcizyzc+QIl4
+    6/zbd1fARUseT8s3PkDiWBe30XdXwIz34/bLNz5AVACMZ9B3V8DHKTqSyzc+QD+O5sjKd1fAdJtw
+    r8w3PkAEqn8QyXdXwPG8VGzMNz5AdmuZDMd3V8CRtBt9zDc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Gy/dJAb7c0A=
+  name: Gail Street
+  oneway: false
+  osmid: 21168197
+  reversed: false
+  source: 227697404
+  target: 227697469
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAVcITev13V8D2eYzyzDc+QIRGsHH9d1fATI3Qz9Q3PkBDVyJQ/XdXwLn8h/TbNz5A
+    bATidf13V8AKuyh64Dc+QIRGsHH9d1fAwFsgQfE3PkBhcM0d/XdXwE1MF2L1Nz5A9bnaiv13V8DX
+    bOUl/zc+QFXCE3r9d1fAXyUfuws4PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    QmDl0CLDWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227697404
+  target: 227701105
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAVcITev13V8D2eYzyzDc+QMwMG2X9d1fAPs+fNqo3PkCERrBx/XdXwMk6HF2lNz5A
+    Q1ciUP13V8DQQgJGlzc+QBmqYir9d1fAGr/wSpI3PkAx7DAm/XdXwJqw/WSMNz5A
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9ihcj8JlW0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227697404
+  target: 227701063
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAMAAAAdmuZDMd3V8CRtBt9zDc+QL9lTpfFd1fAkbQbfcw3PkC/mZguxHdXwEVLHk/LNz5A
+    r3yW58F3V8Bu3jgpzDc+QIF6M2q+d1fAMqzijcw3PkC3CffKvHdXwG7eOCnMNz5AMNY3MLl3V8BK
+    CFbVyzc+QNXrFoGxd1fA8bxUbMw3PkAd5ssLsHdXwKoQj8TLNz5AokYhyax3V8CGOqxwyzc+QKhR
+    SDKrd1fAqhCPxMs3PkBf0hito3dXwCzvqgfMNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    SzeJQWD9aUA=
+  name: Gail Street
+  oneway: false
+  osmid: 21168197
+  reversed: false
+  source: 227697469
+  target: 227697525
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAQAAAAdmuZDMd3V8CRtBt9zDc+QASqfxDJd1fA8bxUbMw3PkA/jubIyndXwHSbcK/MNz5A
+    VACMZ9B3V8DHKTqSyzc+QOJYF7fRd1fAjPfj9ss3PkCJeOv823dXwEVLHk/LNz5AHY6u0t13V8AJ
+    Gcizyzc+QCOCcXDpd1fALO+qB8w3PkCZfol463dXwOv/HObLNz5AsHJoke13V8Bu3jgpzDc+QJfi
+    qrLvd1fAwmwCDMs3PkDKbfse9XdXwOv/HObLNz5Ajgdb7PZ3V8CM9+P2yzc+QBssnKT5d1fAtYr+
+    0Mw3PkAyIHu9+3dXwA/W/znMNz5AVcITev13V8D2eYzyzDc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Gi/dJAb7c0A=
+  name: Gail Street
+  oneway: false
+  osmid: 21168197
+  reversed: true
+  source: 227697469
+  target: 227697404
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAdmuZDMd3V8CRtBt9zDc+QF8pyxDHd1fAfEW3XtM3PkDhB+dTx3dXwMybw7XaNz5A
+    0Jz1Kcd3V8Cun/6z5jc+QLhaJy7Hd1fAVRNE3Qc4PkDKxRhYx3dXwGXiVkEMOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    K4cW2c4XW0A=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227697469
+  target: 227773855
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAAdmuZDMd3V8CRtBt9zDc+QL4xBADHd1fAfAvrxrs3PkBr14S0xndXwIMT0a+tNz5A
+    3EqvzcZ3V8AyVTAqqTc+QJpbIazGd1fAHaz/c5g3PkBlAKjixndXwBUCucSRNz5AIxEawcZ3V8Dc
+    n4uGjDc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    g8DKoUUuW0A=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227697469
+  target: 227773823
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3SQGgZUDMUA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227697525
+  target: 227707762
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AiuHFtk2VEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227697525
+  target: 227698611
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAMAAAAX9IYraN3V8As76oHzDc+QKhRSDKrd1fAqhCPxMs3PkCiRiHJrHdXwIY6rHDLNz5A
+    HebLC7B3V8CqEI/Eyzc+QNXrFoGxd1fA8bxUbMw3PkAw1jcwuXdXwEoIVtXLNz5Atwn3yrx3V8Bu
+    3jgpzDc+QIF6M2q+d1fAMqzijcw3PkCvfJbnwXdXwG7eOCnMNz5Av5mYLsR3V8BFSx5Pyzc+QL9l
+    TpfFd1fAkbQbfcw3PkB2a5kMx3dXwJG0G33MNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TDeJQWD9aUA=
+  name: Gail Street
+  oneway: false
+  osmid: 21168197
+  reversed: true
+  source: 227697525
+  target: 227697469
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AiuHFtk2VEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227698611
+  target: 227697525
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    46WbxCCwOkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227698611
+  target: 227707759
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAADHiZYaN3V8DItaFinDc+QGK85lWdd1fAsFkuG503PkDysFBrmndXwM1y2eicNz5A
+    yjfb3Jh3V8CSQINNnTc+QFAaahSSd1fAl/260503PkAVNgNckHdXwFzLZDieNz5A73IR34l3V8Bh
+    iJy+njc+QDojSnuDd1fAzApFup83PkDbTlsjgndXwIsbt5ifNz5AZVJDG4B3V8AfMXpuoTc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Gi/dJAbtaUA=
+  name: Circle 3 Street
+  oneway: false
+  osmid: 21168260
+  reversed: false
+  source: 227698611
+  target: 227698634
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAZVJDG4B3V8AfMXpuoTc+QNtOWyOCd1fAixu3mJ83PkA6I0p7g3dXwMwKRbqfNz5A
+    73IR34l3V8BhiJy+njc+QBU2A1yQd1fAXMtkOJ43PkBQGmoUkndXwJf9utOdNz5Ayjfb3Jh3V8CS
+    QINNnTc+QPKwUGuad1fAzXLZ6Jw3PkBivOZVnXdXwLBZLhudNz5ADHiZYaN3V8DItaFinDc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Gy/dJAbtaUA=
+  name: Circle 3 Street
+  oneway: false
+  osmid: 21168260
+  reversed: true
+  source: 227698634
+  target: 227698611
+- highway: primary
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    kxgEVg4FZEA=
+  oneway: false
+  osmid: 97130494
+  ref: TX 12
+  reversed: false
+  source: 227700824
+  target: 227704321
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAANAAAAGQ8AZoh3V8BYkdEBSTY+QFVszOuId1fAXwfOGVE2PkAB+KdUiXdXwG5uTE9YNj5A
+    obskzop3V8CUawpkdjY+QH2XUpeMd1fAARWOIJU2PkA6QDBHj3dXwPSmIhXGNj5Aqpm1FJB3V8Dr
+    GcIxyzY+QAOXx5qRd1fAkGYsms42PkCjQJ/Ik3dXwISEKF/QNj5AxJRIopd3V8Bma32R0DY+QMMs
+    tHOad1fAhIQoX9A2PkDfqYB7nndXwISEKF/QNj5AiZl9HqN3V8CEhChf0DY+QA==
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    RIts5/s5dUA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227700824
+  target: 227700875
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAGQ8AZoh3V8BYkdEBSTY+QN9eiIuSd1fAePghJSw2PkBBnIcTmHdXwF2mJsEbNj5A
+  highway: primary
+  lanes: '3'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XrpJDALzXUA=
+  oneway: false
+  osmid:
+  - 995999634
+  - 995999635
+  ref: TX 12
+  reversed: true
+  source: 227700824
+  target: 227629920
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAAiZl9HqN3V8CEhChf0DY+QLfPKjOld1fAv7Z++s82PkDOqWQAqHdXwGCuRQvQNj5A
+    YYvdPqt3V8BNDwpK0TY+QFSp2QOtd1fAZmt9kdA2PkDb3JiesHdXwGZrfZHQNj5A04OCUrR3V8BC
+    lZo90DY+QMehfhe2d1fA1xLyQc82PkCcps8OuHdXwISEKF/QNj5ANBE2PL13V8C/tn76zzY+QAYS
+    FD/Gd1fAoZ3TLNA2PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vp8aL93QaUA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227700875
+  target: 227700931
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAANAAAAiZl9HqN3V8CEhChf0DY+QN+pgHued1fAhIQoX9A2PkDDLLRzmndXwISEKF/QNj5A
+    xJRIopd3V8Bma32R0DY+QKNAn8iTd1fAhIQoX9A2PkADl8eakXdXwJBmLJrONj5Aqpm1FJB3V8Dr
+    GcIxyzY+QDpAMEePd1fA9KYiFcY2PkB9l1KXjHdXwAEVjiCVNj5Aobskzop3V8CUawpkdjY+QAH4
+    p1SJd1fAbm5MT1g2PkBVbMzriHdXwF8HzhlRNj5AGQ8AZoh3V8BYkdEBSTY+QA==
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    RIts5/s5dUA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227700875
+  target: 227700824
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAiZl9HqN3V8CEhChf0DY+QF/svfiid1fACAWlaOU2PkDQX+gRo3dXwPhSeNDsNj5A
+    GCZTBaN3V8DxSpLn+jY+QHFXryKjd1fAoKnXLQI3PkCJmX0eo3dXwMlZ2NMONz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Rrbz/dSAWkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227700875
+  target: 227707747
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAZAAAABhIUP8Z3V8ChndMs0DY+QNTX8zXLd1fA++jUlc82PkA1mfG20ndXwH7H8NjPNj5A
+    eEFEatp3V8AqOSf20DY+QDBHj9/bd1fAoZ3TLNA2PkC4yD1d3XdXwMVztoDQNj5A+E83UOB3V8Ch
+    ndMs0DY+QH9pUZ/kd1fAoZ3TLNA2PkCWd9UD5ndXwEhS0sPQNj5ADFpIwOh3V8AGY0Si0DY+QNyh
+    YTHqd1fAQpWaPdA2PkDbbRea63dXwKdaC7PQNj5AY+/FF+13V8AGY0Si0DY+QKDAO/n0d1fAliNk
+    IM82PkCOB1vs9ndXwMbbSq/NNj5AtTLhl/p3V8CJQWDl0DY+QNjUeVT8d1fAXd4crtU2PkBnR6rv
+    /HdXwL5r0JfeNj5A8PyiBP13V8D1ZWmn5jY+QJbLRuf8d1fAq+l6ous2PkBnR6rv/HdXwO5dg770
+    Nj5AnKIjufx3V8Dv4v24/TY+QJyiI7n8d1fAISBfQgU3PkAfgT/8/HdXwApJZvUONz5ATwXc8/x3
+    V8A/VvDbEDc+QA==
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xSCwcmhlekA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227700931
+  target: 227701021
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAABhIUP8Z3V8ChndMs0DY+QDQRNjy9d1fAv7Z++s82PkCcps8OuHdXwISEKF/QNj5A
+    x6F+F7Z3V8DXEvJBzzY+QNODglK0d1fAQpWaPdA2PkDb3JiesHdXwGZrfZHQNj5AVKnZA613V8Bm
+    a32R0DY+QGGL3T6rd1fATQ8KStE2PkDOqWQAqHdXwGCuRQvQNj5At88qM6V3V8C/tn76zzY+QImZ
+    fR6jd1fAhIQoX9A2PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    v58aL93QaUA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227700931
+  target: 227700875
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAABhIUP8Z3V8ChndMs0DY+QLKd76fGd1fAzR39L9c2PkBr14S0xndXwEhvuI/cNj5A
+    4iGMn8Z3V8CFJokl5TY+QNxKr83Gd1fA2jnNAu02PkDiIYyfxndXwGPyBpj5Nj5AGH0FacZ3V8Ak
+    8Ief/zY+QOj4aHHGd1fAr3jqkQY3PkBfQ3BcxndXwMlZ2NMONz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TDeJQWCtWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227700931
+  target: 227773784
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAATwXc8/x3V8A/VvDbEDc+QMwmwLD8d1fA549pbRo3PkDekbHa/HdXwN+kaVA0Nz5A
+    YXDNHf13V8DikXh5Ojc+QAFolC79d1fA/dr66T83PkAfgT/8/HdXwIro19ZPNz5A
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ILByaJHFWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701021
+  target: 227701038
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAZAAAATwXc8/x3V8A/VvDbEDc+QB+BP/z8d1fACklm9Q43PkCcoiO5/HdXwCEgX0IFNz5A
+    nKIjufx3V8Dv4v24/TY+QGdHqu/8d1fA7l2DvvQ2PkCWy0bn/HdXwKvpeqLrNj5A8PyiBP13V8D1
+    ZWmn5jY+QGdHqu/8d1fAvmvQl942PkDY1HlU/HdXwF3eHK7VNj5AtTLhl/p3V8CJQWDl0DY+QI4H
+    W+z2d1fAxttKr802PkCgwDv59HdXwJYjZCDPNj5AY+/FF+13V8AGY0Si0DY+QNttF5rrd1fAp1oL
+    s9A2PkDcoWEx6ndXwEKVmj3QNj5ADFpIwOh3V8AGY0Si0DY+QJZ31QPmd1fASFLSw9A2PkB/aVGf
+    5HdXwKGd0yzQNj5A+E83UOB3V8ChndMs0DY+QLjIPV3dd1fAxXO2gNA2PkAwR4/f23dXwKGd0yzQ
+    Nj5AeEFEatp3V8AqOSf20DY+QDWZ8bbSd1fAfsfw2M82PkDU1/M1y3dXwPvo1JXPNj5ABhIUP8Z3
+    V8ChndMs0DY+QA==
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xSCwcmhlekA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701021
+  target: 227700931
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAARAAAATwXc8/x3V8A/VvDbEDc+QCamC7H6d1fA1NNH4A83PkC9i/fj9ndXwHXLDvEPNz5A
+    xJYeTfV3V8A5mbhVEDc+QDwVcM/zd1fAsf1kjA83PkDSrGwf8ndXwLH9ZIwPNz5AIH7+e/B3V8Ds
+    L7snDzc+QAlwehfvd1fA4E237BA3PkD+D7BW7XdXwFH1K50PNz5AZXH/kel3V8B7iEZ3EDc+QFbW
+    NsXjd1fAM9yAzw83PkAB3Zcz23dXwJPkub4PNz5AXKrSFtd3V8DJWdjTDjc+QC/CFOXSd1fAyVnY
+    0w43PkC6E+y/zndXwOwvuycPNz5A/rj98sl3V8DncoOhDjc+QF9DcFzGd1fAyVnY0w43PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4XoUrkcVdEA=
+  name: Chauncy Street
+  oneway: false
+  osmid: 21175325
+  reversed: false
+  source: 227701021
+  target: 227773784
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAAH4E//Px3V8CK6NfWTzc+QK4NFeP8d1fAPgRVo1c3PkB/iXjr/HdXwBb2tMNfNz5A
+    ebKbGf13V8C5cvbOaDc+QB+BP/z8d1fA0lPkEHE3PkBJLv8h/XdXwC0kYHR5Nz5AMewwJv13V8Ca
+    sP1kjDc+QA==
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    EoPAyqG1WUA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701038
+  target: 227701063
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAH4E//Px3V8CK6NfWTzc+QAFolC79d1fA/dr66T83PkBhcM0d/XdXwOKReHk6Nz5A
+    3pGx2vx3V8DfpGlQNDc+QMwmwLD8d1fA549pbRo3PkBPBdzz/HdXwD9W8NsQNz5A
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IbByaJHFWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701038
+  target: 227701021
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAH4E//Px3V8CK6NfWTzc+QKOTpdb7d1fA5Zttbkw3PkDxZDcz+ndXwCaL+49MNz5A
+    jdMQVfh3V8CXytsRTjc+QBTq6SPwd1fAFOy/zk03PkCqm4u/7XdXwIaTNH9MNz5ACwxZ3ep3V8AU
+    7L/OTTc+QFcE/1vJd1fA0vwxrU03PkAYfQVpxndXwFXbTfBNNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CKwcWmQtdEA=
+  name: Juanita Street
+  oneway: false
+  osmid: 21168519
+  reversed: false
+  source: 227701038
+  target: 227702736
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAMewwJv13V8CasP1kjDc+QBmqYir9d1fAGr/wSpI3PkBDVyJQ/XdXwNBCAkaXNz5A
+    hEawcf13V8DJOhxdpTc+QMwMG2X9d1fAPs+fNqo3PkBVwhN6/XdXwPZ5jPLMNz5A
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9ihcj8JlW0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701063
+  target: 227697404
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAAMewwJv13V8CasP1kjDc+QEku/yH9d1fALSRgdHk3PkAfgT/8/HdXwNJT5BBxNz5A
+    ebKbGf13V8C5cvbOaDc+QH+JeOv8d1fAFva0w183PkCuDRXj/HdXwD4EVaNXNz5AH4E//Px3V8CK
+    6NfWTzc+QA==
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    EoPAyqG1WUA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701063
+  target: 227701038
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAOAAAAMewwJv13V8CasP1kjDc+QHQprir7d1fARiI0go03PkDOqPkq+XdXwB2PGaiMNz5A
+    8+ZwrfZ3V8BZwW9DjDc+QCsSE9Twd1fAlfPF3os3PkCAuoEC73dXwHfaGhGMNz5ArB3FOep3V8BG
+    IjSCjTc+QBIxJZLod1fAfZdSl4w3PkDsUE1J1ndXwOJcwwyNNz5AT135LM93V8D/dW7ajDc+QJ0u
+    i4nNd1fAO6jEdYw3PkDOGryvyndXwNyfi4aMNz5AUS0iisl3V8D/dW7ajDc+QCMRGsHGd1fA3J+L
+    how3PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    16NwPQr5c0A=
+  name: Sandra Lane
+  oneway: false
+  osmid: 21175507
+  reversed: false
+  source: 227701063
+  target: 227773823
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAVcITev13V8BfJR+7Czg+QD2ARX79d1fAsB2M2Cc4PkB+b9Of/XdXwKLT824sOD5A
+    PYBFfv13V8B6xVOPNDg+QE/rNqj9d1fADHOCNjk4PkAlPneC/XdXwP3AVZ5AOD5A7+L9uP13V8Du
+    dr00RTg+QNegL739d1fAS6/Nxko4PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    y6FFtvPNWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701105
+  target: 227701136
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAVcITev13V8BfJR+7Czg+QPW52or9d1fA12zlJf83PkBhcM0d/XdXwE1MF2L1Nz5A
+    hEawcf13V8DAWyBB8Tc+QGwE4nX9d1fACrsoeuA3PkBDVyJQ/XdXwLn8h/TbNz5AhEawcf13V8BM
+    jdDP1Dc+QFXCE3r9d1fA9nmM8sw3PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    QmDl0CLDWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701105
+  target: 227697404
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAASAAAAVcITev13V8BfJR+7Czg+QJOQSNv4d1fAXyUfuws4PkALQ+T09XdXwMqnx7YMOD5A
+    LEZda+93V8BNhuP5DDg+QIf58gLsd1fAZeJWQQw4PkDEX5M16ndXwEfJq3MMOD5AMErQX+h3V8Di
+    Azv+Czg+QFyTbkvkd1fAyqfHtgw4PkDhQbPr3ndXwOjAcoQMOD5ANuohGt13V8AYeVkTCzg+QOPD
+    7GXbd1fAuXAgJAs4PkBhGRu62XdXwOjAcoQMOD5A8lt0stR3V8DowHKEDDg+QBi0kIDRd1fAoRSt
+    3As4PkCLqfQTzndXwIP7AQ8MOD5AOIO/X8x3V8DowHKEDDg+QAkzbf/Kd1fAI/PIHww4PkDKxRhY
+    x3dXwGXiVkEMOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VOOlm8Tkc0A=
+  name: June Street
+  oneway: false
+  osmid: 21174630
+  reversed: false
+  source: 227701105
+  target: 227773855
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAA16Avvf13V8BLr83GSjg+QMBeYcH9d1fAnSy13m84PkCu82+X/XdXwHvbTIV4OD5A
+    7+L9uP13V8BNEHUfgDg+QB9nmrD9d1fAfuVBeoo4PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VOOlm8QIW0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701136
+  target: 227701144
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAA16Avvf13V8BLr83GSjg+QO/i/bj9d1fA7na9NEU4PkAlPneC/XdXwP3AVZ5AOD5A
+    T+s2qP13V8AMc4I2OTg+QD2ARX79d1fAesVTjzQ4PkB+b9Of/XdXwKLT824sOD5APYBFfv13V8Cw
+    HYzYJzg+QFXCE3r9d1fAXyUfuws4PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zKFFtvPNWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701136
+  target: 227701105
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAQAAAA16Avvf13V8BLr83GSjg+QA75Zwbxd1fAS6/Nxko4PkDNPSR873dXwObpXFFKOD5A
+    ai43GOp3V8Ck+s4vSjg+QNzVq8jod1fATBdi9Uc4PkCun/6z5ndXwL1WQndJOD5A6gWf5uR3V8Cf
+    PZepSTg+QIxLVdrid1fARfKVQEo4PkCHwmfr4HdXwMjQsYNKOD5ASddMvtl3V8A/NV66STg+QLA4
+    nPnVd1fAYwtBDko4PkAujspN1HdXwOAsJctJOD5AlKEqptJ3V8BjC0EOSjg+QOJyvALRd1fAwhN6
+    /Uk4PkCKdap8z3dXwP5F0JhJOD5Aar3faMd3V8BF8pVASjg+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    KVyPwvX+c0A=
+  name: Alice Street
+  oneway: false
+  osmid: 21179012
+  reversed: false
+  source: 227701136
+  target: 227773879
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAH2easP13V8B+5UF6ijg+QO/i/bj9d1fACYuKOJ04PkCWsaGb/XdXwF6ezhWlOD5A
+    kNrEyf13V8BgI0kQrjg+QLqHhO/9d1fAHAbzV8g4PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UrgehetBWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701144
+  target: 227701158
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAH2easP13V8B+5UF6ijg+QO/i/bj9d1fATRB1H4A4PkCu82+X/XdXwHvbTIV4OD5A
+    wF5hwf13V8CdLLXebzg+QNegL739d1fAS6/Nxko4PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VOOlm8QIW0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701144
+  target: 227701136
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAPAAAAH2easP13V8B+5UF6ijg+QKN5AIv8d1fAtFpgj4k4PkCRQln4+ndXwFRSJ6CJOD5A
+    yNEcWfl3V8CQhH07iTg+QPm9TX/2d1fAGSDRBIo4PkAGuvYF9HdXwHJr0m2JOD5AhUNv8fB3V8Dv
+    jLYqiTg+QAlTlEvjd1fANzl80ok4PkDj3ZGx2ndXwDF8REyJOD5ACAJk6Nh3V8Bya9JtiTg+QN+I
+    7lnXd1fArp0oCYk4PkBWgsXhzHdXwKjg8IKIOD5A32sIjst3V8CFCg4viDg+QOHTnLzId1fAisdF
+    tYg4PkDzcth9x3dXwO+MtiqJOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MQisHFrkc0A=
+  name: Lea Street
+  oneway: false
+  osmid: 21175417
+  reversed: false
+  source: 227701144
+  target: 227773897
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAAuoeE7/13V8AcBvNXyDg+QBO54Az+d1fAc56xL9k4PkBDPX0E/ndXwI2chT3tOD5A
+    tLCnHf53V8BV+Z6RCDk+QA==
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9P3UeOk+W0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701158
+  target: 227701171
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAuoeE7/13V8AcBvNXyDg+QJDaxMn9d1fAYCNJEK44PkCWsaGb/XdXwF6ezhWlOD5A
+    7+L9uP13V8AJi4o4nTg+QB9nmrD9d1fAfuVBeoo4PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UrgehetBWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701158
+  target: 227701144
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAARAAAAuoeE7/13V8AcBvNXyDg+QGPyBpj5d1fAn+QOm8g4PkCr7Lsi+HdXwHwOLEfIOD5A
+    pmPOM/Z3V8BGmQ0yyTg+QJsDBHP0d1fAZLK4/8g4PkA0hc5r7HdXwASqfxDJOD5ABU8hV+p3V8BA
+    3NWryDg+QH3nFyXod1fAZLK4/8g4PkBGByRh33dXwJ/kDpvIOD5AHqhTHt13V8CBy2PNyDg+QN0G
+    td/ad1fA/+xHisg4PkBENLqD2HdXwJ/kDpvIOD5AG9XpQNZ3V8AcBvNXyDg+QJRt4A7Ud1fAQNzV
+    q8g4PkDk2lAxzndXwJ/kDpvIOD5ANEjBU8h3V8A6H54lyDg+QLKDSlzHd1fAXvWAecg4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    B4GVQ4sEdEA=
+  name: Wayne Road
+  oneway: false
+  osmid: 21173289
+  reversed: false
+  source: 227701158
+  target: 227770046
+- highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bxKDwMqhWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701171
+  target: 227701174
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAAtLCnHf53V8BV+Z6RCDk+QEM9fQT+d1fAjZyFPe04PkATueAM/ndXwHOesS/ZOD5A
+    uoeE7/13V8AcBvNXyDg+QA==
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9P3UeOk+W0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701171
+  target: 227701158
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAAtLCnHf53V8BV+Z6RCDk+QI9v7xr0d1fAr0Sg+gc5PkBuaTUk7ndXwJEr9SwIOT5A
+    q+l6out3V8B4z4HlCDk+QP+R6dDpd1fA0hqDTgg5PkCjVpi+13dXwOp29pUHOT5Ah4vc09V3V8CR
+    K/UsCDk+QL5ojxfSd1fAVfmekQg5PkBWgsXhzHdXwBMKEXAIOT5Atr5IaMt3V8DqdvaVBzk+QDVi
+    Zp/Hd1fACJChYwc5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fT81Xrr9c0A=
+  name: Elizabeth Street
+  oneway: false
+  osmid: 21170839
+  reversed: false
+  source: 227701171
+  target: 227736776
+- highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bxKDwMqhWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701174
+  target: 227701171
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAA3V1nQ/53V8C+pDFaRzk+QGzqPCr+d1fAxebj2lA5PkDXhopx/ndXwHzvb9BeOT5A
+    lpf8T/53V8CMvoI0Yzk+QHh+UYL+d1fAoUrNHmg5PkCQwB9+/ndXwNrJ4Ch5OT5AATRKl/53V8DK
+    F7SQgDk+QBl2GJP+d1fAOIdrtYc5PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8KfGSzdZW0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701174
+  target: 227701198
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAA3V1nQ/53V8C+pDFaRzk+QCx96IL6d1fAZFkw8Uc5PkB3LSEf9HdXwMNhaeBHOT5A
+    ea9amfB3V8BenPhqRzk+QPPJiuHqd1fAO8YVF0c5PkAgYRiw5HdXwKCLhoxHOT5AjEtV2uJ3V8B8
+    taM4Rzk+QKBSJcred1fAvqQxWkc5PkAY6xuY3HdXwIJy275HOT5AxsTm49p3V8BZ38DkRjk+QNVZ
+    LbDHd1fAQYNNnUc5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sp3vp8YDdEA=
+  name: Betsy Lane
+  oneway: false
+  osmid: 21176127
+  reversed: false
+  source: 227701174
+  target: 227773948
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAGXYYk/53V8A4h2u1hzk+QAcLJ2n+d1fAycwFLo85PkAfTfVk/ndXwGLZzCGpOT5A
+    GXYYk/53V8C+LsN/ujk+QOnxe5v+d1fA9MDHYMU5PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TmIQWDksWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701198
+  target: 227701209
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAGXYYk/53V8A4h2u1hzk+QAE0Spf+d1fAyhe0kIA5PkCQwB9+/ndXwNrJ4Ch5OT5A
+    eH5Rgv53V8ChSs0eaDk+QJaX/E/+d1fAjL6CNGM5PkDXhopx/ndXwHzvb9BeOT5AbOo8Kv53V8DF
+    5uPaUDk+QN1dZ0P+d1fAvqQxWkc5PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    76fGSzdZW0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701198
+  target: 227701174
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAARAAAAGXYYk/53V8A4h2u1hzk+QPbTf9b8d1fAGm7A54c5PkD4iQPo93dXwLWoT3KHOT5A
+    eEfGavN3V8A4h2u1hzk+QOWZl8Pud1fADvRQ24Y5PkDUYvAw7XdXwG78icqGOT5AHF2lu+t3V8Cp
+    LuBlhjk+QKCJsOHpd1fALA38qIY5PkBIjJ5b6HdXwIZY/RGGOT5AvVErTN93V8BKJqd2hjk+QJXY
+    tb3dd1fApHGo34U5PkAfEOhM2ndXwGKCGr6FOT5Aqkca3NZ3V8BEaW/whTk+QDD2XnzRd1fAzQTD
+    uYY5PkB48BMH0HdXwICbxYuFOT5AcGByo8h3V8B63o0FhTk+QHB6F+/Hd1fAvM0bJ4U5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BoGVQ4sOdEA=
+  name: Patricia Lane
+  oneway: false
+  osmid: 21179024
+  reversed: false
+  source: 227701198
+  target: 227773987
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAASAAAA6fF7m/53V8D0wMdgxTk+QKErEaj+d1fANuohGt05PkC/RLx1/ndXwOaw+47hOT5A
+    SPq0iv53V8D7PEZ55jk+QAE0Spf+d1fA7pQO1v85PkCQwB9+/ndXwGMpkq8EOj5AQiPYuP53V8C8
+    kXnkDzo+QFSOyeL+d1fADw9h/DQ6PkASnzvB/ndXwEBMwoU8Oj5AJAot6/53V8DM1CR4Qzo+QEku
+    /yH9d1fAONxHbk06PkDHgy12+3dXwIRFRZxOOj5A8X7cfvl3V8BnLJrOTjo+QPPMy2H3d1fAhEVF
+    nE46PkAjn1c89XdXwJ2huONNOj5A+z+H+fJ3V8B/iA0WTjo+QD19BP7wd1fAPZl/9E06PkBKXwg5
+    73dXwKJe8GlOOj5A
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XbpJDAK/c0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701209
+  target: 227701263
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAA6fF7m/53V8D0wMdgxTk+QBl2GJP+d1fAvi7Df7o5PkAfTfVk/ndXwGLZzCGpOT5A
+    Bwsnaf53V8DJzAUujzk+QBl2GJP+d1fAOIdrtYc5PkA=
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TmIQWDksWkA=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701209
+  target: 227701198
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAA6fF7m/53V8D0wMdgxTk+QItR19r7d1fAd5/jo8U5PkCQvd798XdXwFTJAFDFOT5A
+    MgOV8e93V8AYl6q0xTk+QPFHUWfud1fAGJeqtMU5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UY2XbhLDV0A=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: false
+  source: 227701209
+  target: 227802888
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAPAAAASl8IOe93V8CiXvBpTjo+QD//PXjtd1fAol7waU46PkClLEMc63dXwPyp8dJNOj5A
+    9rNYiuR3V8Ar+kMzTzo+QLA73Xnid1fAQ1a3ek46PkCHwmfr4HdXwHnL1Y9NOj5Apg9dUN93V8A1
+    7zhFRzo+QL5r0Jfed1fA2h694T46PkBkOnR63ndXwDLlQ1A1Oj5A1q2ek953V8AXnMHfLzo+QF5j
+    l6jed1fAsrlqniM6PkDt72yP3ndXwI/GoX4XOj5A7e9sj953V8B7aB8r+Dk+QHalZaTed1fAk6es
+    pus5PkBeY5eo3ndXwPTAx2DFOT5A
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TDeJQWD3c0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: false
+  source: 227701263
+  target: 227701329
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAASAAAASl8IOe93V8CiXvBpTjo+QD19BP7wd1fAPZl/9E06PkD7P4f58ndXwH+IDRZOOj5A
+    I59XPPV3V8CdobjjTTo+QPPMy2H3d1fAhEVFnE46PkDxftx++XdXwGcsms5OOj5Ax4Mtdvt3V8CE
+    RUWcTjo+QEku/yH9d1fAONxHbk06PkAkCi3r/ndXwMzUJHhDOj5AEp87wf53V8BATMKFPDo+QFSO
+    yeL+d1fADw9h/DQ6PkBCI9i4/ndXwLyReeQPOj5AkMAffv53V8BjKZKvBDo+QAE0Spf+d1fA7pQO
+    1v85PkBI+rSK/ndXwPs8RnnmOT5Av0S8df53V8DmsPuO4Tk+QKErEaj+d1fANuohGt05PkDp8Xub
+    /ndXwPTAx2DFOT5A
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    X7pJDAK/c0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701263
+  target: 227701209
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAASl8IOe93V8CiXvBpTjo+QJ7TLNDud1fAkGgCRSw6PkAtYAK37ndXwMJrlzYcOj5A
+    u+zXne53V8DL+PcZFzo+QAOzQpHud1fAYAK37uY5PkDxR1Fn7ndXwBiXqrTFOT5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /tR46SYBbUA=
+  name: Swisher Street
+  oneway: false
+  osmid: 21176083
+  reversed: false
+  source: 227701263
+  target: 227802888
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAPAAAAXmOXqN53V8D0wMdgxTk+QHalZaTed1fAk6espus5PkDt72yP3ndXwHtoHyv4OT5A
+    7e9sj953V8CPxqF+Fzo+QF5jl6jed1fAsrlqniM6PkDWrZ6T3ndXwBecwd8vOj5AZDp0et53V8Ay
+    5UNQNTo+QL5r0Jfed1fA2h694T46PkCmD11Q33dXwDXvOEVHOj5Ah8Jn6+B3V8B5y9WPTTo+QLA7
+    3Xnid1fAQ1a3ek46PkD2s1iK5HdXwCv6QzNPOj5ApSxDHOt3V8D8qfHSTTo+QD//PXjtd1fAol7w
+    aU46PkBKXwg573dXwKJe8GlOOj5A
+  highway: residential
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    SzeJQWD3c0A=
+  name: Johnson Road
+  oneway: false
+  osmid: 21168414
+  reversed: true
+  source: 227701329
+  target: 227701263
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAAXmOXqN53V8D0wMdgxTk+QApq+BbWd1fA1qcck8U5PkBwl/2603dXwJW4jnHFOT5A
+    ZOYCl8d3V8BZhjjWxTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DAIrhxbpYEA=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: false
+  source: 227701329
+  target: 227774014
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAAXmOXqN53V8D0wMdgxTk+QKSNI9bid1fA1qcck8U5PkDvdOeJ53dXwPTAx2DFOT5A
+    8UdRZ+53V8AYl6q0xTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BFYOLbIVV0A=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: true
+  source: 227701329
+  target: 227802888
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAGH0FacZ3V8BV203wTTc+QMfyrnrAd1fAl8rbEU43PkDIJvkRv3dXwLTjht9NNz5A
+    pwaaz7l3V8D20hQBTjc+QIo73uS3d1fA/I9Mh043PkAOaOkKtndXwJfK2xFONz5AigRTzax3V8Cc
+    hxOYTjc+QDfeHRmrd1fAokRLHk83PkCyRj1Eo3dXwOMz2T9PNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rBxaZDvHaUA=
+  name: Juanita Street
+  oneway: false
+  osmid: 21168519
+  reversed: false
+  source: 227702736
+  target: 227702770
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAGH0FacZ3V8BV203wTTc+QFcE/1vJd1fA0vwxrU03PkALDFnd6ndXwBTsv85NNz5A
+    qpuLv+13V8CGkzR/TDc+QBTq6SPwd1fAFOy/zk03PkCN0xBV+HdXwJfK2xFONz5A8WQ3M/p3V8Am
+    i/uPTDc+QKOTpdb7d1fA5Zttbkw3PkAfgT/8/HdXwIro19ZPNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CKwcWmQtdEA=
+  name: Juanita Street
+  oneway: false
+  osmid: 21168519
+  reversed: true
+  source: 227702736
+  target: 227701038
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAAGH0FacZ3V8BV203wTTc+QCno9pLGd1fAFY4glWI3PkDK372jxndXwD3zcth9Nz5A
+    IxEawcZ3V8Dcn4uGjDc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6Pup8dKNWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227702736
+  target: 227773823
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAGH0FacZ3V8BV203wTTc+QInwL4LGd1fArYTukjg3PkCmCdtPxndXwJj4o6gzNz5A
+    ca5hhsZ3V8CJKZFELzc+QEcBomDGd1fAl3Mprio3PkBxrmGGxndXwF95kJ4iNz5AWWyTisZ3V8Au
+    PC8VGzc+QHeFPljGd1fAZ4F2hxQ3PkBfQ3BcxndXwMlZ2NMONz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YOXQItvZWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227702736
+  target: 227773784
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BoGVQ4vMO0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227702770
+  target: 227707755
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UI2XbhILUkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227702770
+  target: 227707751
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAskY9RKN3V8DjM9k/Tzc+QDfeHRmrd1fAokRLHk83PkCKBFPNrHdXwJyHE5hONz5A
+    DmjpCrZ3V8CXytsRTjc+QIo73uS3d1fA/I9Mh043PkCnBprPuXdXwPbSFAFONz5AyCb5Eb93V8C0
+    44bfTTc+QMfyrnrAd1fAl8rbEU43PkAYfQVpxndXwFXbTfBNNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rBxaZDvHaUA=
+  name: Juanita Street
+  oneway: false
+  osmid: 21168519
+  reversed: true
+  source: 227702770
+  target: 227702736
+- highway: primary
+  lanes: '2'
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    kxgEVg4FZEA=
+  oneway: false
+  osmid: 97130494
+  ref: TX 12
+  reversed: true
+  source: 227704321
+  target: 227700824
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UrgeheuRQkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707747
+  target: 227707751
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAiZl9HqN3V8DJWdjTDjc+QHFXryKjd1fAoKnXLQI3PkAYJlMFo3dXwPFKkuf6Nj5A
+    0F/oEaN3V8D4UnjQ7DY+QF/svfiid1fACAWlaOU2PkCJmX0eo3dXwISEKF/QNj5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Rrbz/dSAWkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707747
+  target: 227700875
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAMAAAAiZl9HqN3V8DJWdjTDjc+QB2vQPSkd1fAh2pKsg43PkB/vi1YqndXwI0ngjgPNz5A
+    7wBPWrh3V8DsL7snDzc+QKfs9IO6d1fA53KDoQ43PkA0K9uHvHdXwIdqSrIONz5Abw9CQL53V8Be
+    1y/YDTc+QDmAft+/d1fAfPDapQ03PkCRfZBlwXdXwKDGvfkNNz5AinJp/MJ3V8D5Eb9iDTc+QLmo
+    FhHFd1fAaVGf5A43PkBfQ3BcxndXwMlZ2NMONz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fT81XrrlaUA=
+  name: Chauncy Street
+  oneway: false
+  osmid: 21175325
+  reversed: true
+  source: 227707747
+  target: 227773784
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UI2XbhILUkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707751
+  target: 227702770
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UrgeheuRQkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707751
+  target: 227707747
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAMAAAAuB0aFqN3V8B2bW+3JDc+QOnvpfCgd1fAEaj+QSQ3PkAU6BN5kndXwMPWbOUlNz5A
+    bk26LZF3V8Dh7xezJTc+QM+9h0uOd1fAKJzdWiY3PkAaiGUzh3dXwC5ZFeEmNz5ACp+tg4N3V8DJ
+    k6RrJjc+QEFIFjCBd1fAb0ijAic3PkCbx2Ewf3dXwI1hTtAmNz5A72/QXn13V8BX7C+7Jzc+QGEX
+    RQ98d1fALlkV4SY3PkDOGyeFeXdXwFfsL7snNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZBBYObSIbkA=
+  name: Circle 1 Street
+  oneway: false
+  osmid: 21169707
+  reversed: false
+  source: 227707751
+  target: 227719813
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DAIrhxYZU0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707755
+  target: 227707759
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BoGVQ4vMO0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707755
+  target: 227702770
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAskY9RKN3V8DVBieiXzc+QK7UsyCUd1fAQInPnWA3PkBIpG38iXdXwAoUsYhhNz5A
+    6s9+pIh3V8AoLVxWYTc+QAjMQ6Z8d1fAUcB2MGI3PkDZrzvdeXdXwLDIrx9iNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pHA9CtdbbkA=
+  name: Circle 2 Street
+  oneway: false
+  osmid: 21172429
+  reversed: false
+  source: 227707755
+  target: 227759221
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    46WbxCCwOkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707759
+  target: 227698611
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DAIrhxYZU0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707759
+  target: 227707755
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAMAAAAUz4EVaN3V8AdjxmojDc+QMk6HF2ld1fAGNLhIYw3PkBosKnzqHdXwJqw/WSMNz5A
+    SS9q96t3V8BBZfz7jDc+QOLnvwevd1fAd9oaEYw3PkClTdU9sndXwJXzxd6LNz5A3/3xXrV3V8BZ
+    wW9DjDc+QCoZAKq4d1fAuMmoMow3PkDbEyS2u3dXwH2XUpeMNz5AzcmLTMB3V8CasP1kjDc+QEmD
+    29rCd1fAoG0164w3PkAjERrBxndXwNyfi4aMNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NF66SQz+aUA=
+  name: Sandra Lane
+  oneway: false
+  osmid: 21175507
+  reversed: true
+  source: 227707759
+  target: 227773823
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3SQGgZUDMUA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707762
+  target: 227697525
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAL058taN3V8A57pQO1jc+QBcMrrmjd1fAbLBwkuY3PkCIf9jSo3dXwKHa4ET0Nz5A
+    dxTnqKN3V8B1lIPZBDg+QF/SGK2jd1fANpIE4Qo4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xSCwcmhpVkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707762
+  target: 227707769
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAL058taN3V8A57pQO1jc+QMufbwuWd1fAzQNY5Nc3PkA+ey5Tk3dXwKotdZDXNz5A
+    HVvPEI53V8DNA1jk1zc+QJvKorCLd1fA08CPatg3PkATY5l+iXdXwLWn5JzYNz5AhSSzeod3V8Cd
+    S3FV2Tc+QBYzwtuDd1fANh5ssds3PkAXZwxzgndXwFQ3F3/bNz5Avmn67IB3V8C/ub963Dc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hMDKoUWWaUA=
+  name: Circle 4 Street
+  oneway: false
+  osmid: 21170690
+  reversed: false
+  source: 227707762
+  target: 227734445
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XI/C9Sg8MEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707769
+  target: 227707770
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAX9IYraN3V8A2kgThCjg+QHcU56ijd1fAdZSD2QQ4PkCIf9jSo3dXwKHa4ET0Nz5A
+    FwyuuaN3V8BssHCS5jc+QC9OfLWjd1fAOe6UDtY3PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xSCwcmhpVkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707769
+  target: 227707762
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAPAAAAX9IYraN3V8A2kgThCjg+QMIv9fOmd1fA4gM7/gs4PkCYTus2qHdXwAAd5ssLOD5A
+    SUkPQ6t3V8ChFK3cCzg+QH5WmSmtd1fA3EYDeAs4PkD0UrExr3dXwAAd5ssLOD5AVkj5SbV3V8C+
+    LViqCzg+QLrZHyi3d1fAg/sBDww4PkDowd1Zu3dXwAbaHVIMOD5AsTIa+bx3V8BNhuP5DDg+QFez
+    zvi+d1fAR8mrcww4PkBbCHJQwndXwO19qgoNOD5ASBtHrMV3V8DE6o8wDDg+QJSERNrGd1fAptHk
+    Ygw4PkDKxRhYx3dXwGXiVkEMOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NolBYOUwakA=
+  name: June Street
+  oneway: false
+  osmid: 21174630
+  reversed: true
+  source: 227707769
+  target: 227773855
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XI/C9Sg8MEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707770
+  target: 227707769
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAR5BKsaN3V8Dey31yFDg+QGtmLQWkd1fAGXJsPUM4PkCa6sn8o3dXwFFsBU1LOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rkfhehRGV0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707770
+  target: 227707776
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAR5BKsaN3V8Dey31yFDg+QCfYf52bd1fAij20jxU4PkBkWMUbmXdXwOlF7X4VOD5A
+    H0jeOZR3V8Cz0M5pFjg+QNFZZhGKd1fAADrMlxc4PkCwH2KDhXdXwO2akNYYOD5AcLIN3IF3V8DP
+    geUIGTg+QCkg7X+Ad1fAveKpRxo4PkCDUUmdgHdXwC+KHvgYOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zKFFtvMlakA=
+  name: Circle 5 Street
+  oneway: false
+  osmid: 21173539
+  reversed: false
+  source: 227707770
+  target: 227773022
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PQrXo3A9IEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707776
+  target: 227707780
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAmurJ/KN3V8BRbAVNSzg+QGtmLQWkd1fAGXJsPUM4PkBHkEqxo3dXwN7LfXIUOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rkfhehRGV0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707776
+  target: 227707770
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAmurJ/KN3V8BRbAVNSzg+QLCqXn6nd1fAsHQ+PEs4PkCeCyO9qHdXwP3dO2pMOD5A
+    f74tWKp3V8BuhbAaSzg+QLluSnmtd1fAboWwGks4PkDue9Rfr3dXwMjQsYNKOD5AwmnBi753V8DI
+    0LGDSjg+QJ0Rpb3Bd1fApPrOL0o4PkBqvd9ox3dXwEXylUBKOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rkfhehQKakA=
+  name: Alice Street
+  oneway: false
+  osmid: 21179012
+  reversed: true
+  source: 227707776
+  target: 227773879
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PQrXo3A9IEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707780
+  target: 227707776
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAa2YtBaR3V8AkCcIVUDg+QAte9BWkd1fAN8Xjolo4PkCCqPsApHdXwAYq499nOD5A
+    3NlXHqR3V8BwYd14dzg+QAte9BWkd1fAqMMKt3w4PkCsVbsmpHdXwLkXmBWKOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zvdT46WbWEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707780
+  target: 227707802
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAa2YtBaR3V8AkCcIVUDg+QB2SWiiZd1fAMIMxIlE4PkCsUnqml3dXwPRQ24ZROD5A
+    o1pEFJN3V8A1QGmoUTg+QGmqJ/OPd1fAHeT1YFI4PkDikA2ki3dXwF/Tg4JSOD5Ab2Qe+YN3V8C9
+    cyhDVTg+QFhwP+CBd1fAgUHSp1U4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9P3UeOkSaUA=
+  name: Circle 6 Street
+  oneway: false
+  osmid: 21173683
+  reversed: false
+  source: 227707780
+  target: 227775017
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TDeJQWCFS0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707802
+  target: 227707805
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAArFW7JqR3V8C5F5gVijg+QAte9BWkd1fAqMMKt3w4PkDc2VcepHdXwHBh3Xh3OD5A
+    gqj7AKR3V8AGKuPfZzg+QAte9BWkd1fAN8Xjolo4PkBrZi0FpHdXwCQJwhVQOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    z/dT46WbWEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707802
+  target: 227707780
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAArFW7JqR3V8C5F5gVijg+QBDn4QSmd1fAlkG1wYk4PkD7d33mrHdXwPVJ7rCJOD5A
+    FCUhkbZ3V8B4KAr0iTg+QPNy2H3Hd1fA74y2Kok4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Rrbz/dToaUA=
+  name: Lea Street
+  oneway: false
+  osmid: 21175417
+  reversed: true
+  source: 227707802
+  target: 227773897
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VOOlm8TASUA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707805
+  target: 227707808
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TDeJQWCFS0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707805
+  target: 227707802
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAOAAAAlBPtKqR3V8B551CGqjg+QL/09ueid1fAu9bep6o4PkDj/iPToXdXwGwFTUusOD5A
+    5zbhXpl3V8DkafmBqzg+QI85z9iXd1fAIJxPHas4PkBhN2xblHdXwIRhwJKrOD5A/KVFfZJ3V8Ar
+    Fr8prDg+QAOxbOaQd1fAZ0gVxas4PkBAFw0Zj3dXwCsWvymsOD5ArAFKQ413V8CKHvgYrDg+QIlf
+    sYaLd1fATuyhfaw4PkBuMNRhhXdXwOi+nNmuOD5AOQmlL4R3V8Bl4ICWrjg+QIj029eBd1fA7nvU
+    X684PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MjMzMzNLaUA=
+  name: Circle 7 Street
+  oneway: false
+  osmid: 21176357
+  reversed: false
+  source: 227707805
+  target: 227805684
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VOOlm8TASUA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707808
+  target: 227707805
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAF/IIbqR3V8AiwyreyDg+QOGWj6Skd1fAgQUwZeA4PkBY4ZaPpHdXwFtfJLTlOD5A
+    shLzrKR3V8A6dlCJ6zg+QLIS86ykd1fAi269pgc5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    d76fGi+lWkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707808
+  target: 227707822
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAF/IIbqR3V8AiwyreyDg+QFLWbyamd1fAECTvHMo4PkAVcM/zp3dXwMO68e7IOD5A
+    d2UXDK53V8AXSbvRxzg+QF/v/nivd1fA4dOcvMg4PkAoYDsYsXdXwOHTnLzIOD5AzvqUY7J3V8Bp
+    b/CFyTg+QE2h8xq7d1fABKp/EMk4PkDPS8XGvHdXwEDc1avIOD5AsoNKXMd3V8Be9YB5yDg+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bef7qfGyaUA=
+  name: Wayne Road
+  oneway: false
+  osmid: 21173289
+  reversed: true
+  source: 227707808
+  target: 227770046
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    g8DKoUV2RkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707822
+  target: 227707826
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAshLzrKR3V8CLbr2mBzk+QLIS86ykd1fAOnZQies4PkBY4ZaPpHdXwFtfJLTlOD5A
+    4ZaPpKR3V8CBBTBl4Dg+QBfyCG6kd1fAIsMq3sg4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dr6fGi+lWkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707822
+  target: 227707808
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAAshLzrKR3V8CLbr2mBzk+QBakGYumd1fAtAHYgAg5PkD9E1ysqHdXwK9EoPoHOT5A
+    B0Dc1at3V8AxI7w9CDk+QLEVNC2xd1fAMSO8PQg5PkB1r5P6sndXwDfg88MIOT5AknpP5bR3V8C0
+    AdiACDk+QGe2K/TBd1fADk3Z6Qc5PkCocW9+w3dXwLQB2IAIOT5AQURq2sV3V8CLbr2mBzk+QDVi
+    Zp/Hd1fACJChYwc5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    m8QgsHKoaUA=
+  name: Elizabeth Street
+  oneway: false
+  osmid: 21170839
+  reversed: true
+  source: 227707822
+  target: 227736776
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yXa+nxpnUEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707826
+  target: 227707830
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    g8DKoUV2RkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707826
+  target: 227707822
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAakyIuaR3V8AqOLwgIjk+QPxx++WTd1fA/zwNGCQ5PkCTV+cYkHdXwCnQJ/IkOT5A
+    X36nyYx3V8COlZhnJTk+QE57Ss6Jd1fATKYKRiU5PkAlAtU/iHdXwPNaCd0lOT5AmPc404R3V8DO
+    HJJaKDk+QHwsfeiCd1fAf0sA/ik5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    I9v5fmroaEA=
+  name: Circle 8 Street
+  oneway: false
+  osmid: 21178978
+  reversed: false
+  source: 227707826
+  target: 227831394
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yXa+nxpnUEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707830
+  target: 227707826
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAAlPlH36R3V8CN7ErLSDk+QI4iaw2ld1fAilbuBWY5PkBMM93rpHdXwKtcqPxrOT5A
+    duCcEaV3V8Ara5vicTk+QHbgnBGld1fA7Ggc6nc5PkALRE/KpHdXwOTbuwZ9OT5AXp7OFaV3V8D5
+    ZwbxgTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    SOF6FK5XWEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707830
+  target: 227707850
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAlPlH36R3V8CN7ErLSDk+QEZfQZqxd1fAKCfaVUg5PkAJ+aBns3dXwNYApaFGOT5A
+    MSQnE7d3V8B3+GuyRjk+QBPXMa64d1fABVH3AUg5PkBr1EM0undXwOc3TDRIOT5A0NA/wcV3V8D/
+    k797Rzk+QNVZLbDHd1fAQYNNnUc5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8/3UeOmaaUA=
+  name: Betsy Lane
+  oneway: false
+  osmid: 21176127
+  reversed: true
+  source: 227707830
+  target: 227773948
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PQrXo3A9FkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707850
+  target: 227707855
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAAXp7OFaV3V8D5ZwbxgTk+QAtET8qkd1fA5Nu7Bn05PkB24JwRpXdXwOxoHOp3OT5A
+    duCcEaV3V8Ara5vicTk+QEwz3eukd1fAq1yo/Gs5PkCOImsNpXdXwIpW7gVmOT5AlPlH36R3V8CN
+    7ErLSDk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    SOF6FK5XWEA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707850
+  target: 227707830
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAAXp7OFaV3V8D5ZwbxgTk+QNYcIJijd1fABOJ1/YI5PkDxYmGInHdXwKuWdJSDOT5A
+    4Cu69Zp3V8DyQjo8hDk+QOFfBI2Zd1fA7IUCtoM5PkDNO07RkXdXwDMyyF2EOT5AjbRU3o53V8A5
+    7//jhDk+QEYiNIKNd1fA+P9xwoQ5PkAAxF29indXwD+sN2qFOT5ARbde04N3V8DrHW6Hhjk+QNJW
+    JZF9d1fADYy8rIk5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9ihcj8IRbUA=
+  name: Circle 9 Street
+  oneway: false
+  osmid: 21174799
+  reversed: false
+  source: 227707850
+  target: 227789411
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PQrXo3A9FkA=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707855
+  target: 227707850
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAXp7OFaV3V8BdxeI3hTk+QHbgnBGld1fAeZPfopM5PkDbv7LSpHdXwLN6h9uhOT5A
+    fLd546R3V8CvQspPqjk+QAtET8qkd1fAChNGs7I5PkDzAYHOpHdXwLO0U3O5OT5ApmQ5CaV3V8Bv
+    9Zz0vjk+QBfYYyKld1fATgzJycQ5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Nl66SQwCW0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: false
+  source: 227707855
+  target: 227707880
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAXp7OFaV3V8BdxeI3hTk+QAMF3smnd1fAFRkdkIQ5PkAIjsu4qXdXwP28qUiFOT5A
+    8BezJat3V8C8zRsnhTk+QInQCDaud1fAnrRwWYU5PkDWOQZkr3dXwOsdboeGOT5AgpGXNbF3V8Bo
+    P1JEhjk+QJD4FWu4d1fAaD9SRIY5PkDzO01mvHdXwD+sN2qFOT5AcHoX78d3V8C8zRsnhTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UrgeheuZaUA=
+  name: Patricia Lane
+  oneway: false
+  osmid: 21179024
+  reversed: true
+  source: 227707855
+  target: 227773987
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAF9hjIqV3V8BODMnJxDk+QKZkOQmld1fAb/Wc9L45PkDzAYHOpHdXwLO0U3O5OT5A
+    C0RPyqR3V8AKE0azsjk+QHy3eeOkd1fAr0LKT6o5PkDbv7LSpHdXwLN6h9uhOT5AduCcEaV3V8B5
+    k9+ikzk+QF6ezhWld1fAXcXiN4U5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Nl66SQwCW0A=
+  name: Burdine Street
+  oneway: false
+  osmid: 21168881
+  reversed: true
+  source: 227707880
+  target: 227707855
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAOAAAAF9hjIqV3V8BODMnJxDk+QH3rw3qjd1fANrBVgsU5PkAfZcQFoHdXwF9DcFzGOT5A
+    8BRypZ53V8AAOzdtxjk+QFYo0v2cd1fAar3faMc5PkA/Gk6Zm3dXwKbvNQTHOT5A5xw8E5p3V8Do
+    3sMlxzk+QAVqMXiYd1fAjpPCvMc5PkDFru3tlndXwM+CUN7HOT5APC0/cJV3V8BMpDSbxzk+QGaj
+    c36Kd1fAz4JQ3sc5PkBjnL8JhXdXwBYvFobIOT5AWFaalIJ3V8CUUPpCyDk+QBeBsb6Bd1fAEXLe
+    /8c5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    C9ejcD3+aUA=
+  name: Circle 10 Street
+  oneway: false
+  osmid: 21169977
+  reversed: false
+  source: 227707880
+  target: 227618710
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAF9hjIqV3V8BODMnJxDk+QM7drpemd1fA1qcck8U5PkC1/wHWqndXwDawVYLFOT5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vp8aL93EQEA=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: true
+  source: 227707880
+  target: 227803251
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAx4FXy513V8BlOJ7PgDY+QIaSyamdd1fARDLk2Ho2PkBuaqD5nHdXwGwjnuxmNj5A
+    ehhanZx3V8CBkgILYDY+QDNslPWbd1fAyQT8Gkk2PkC8OzJWm3dXwK6ek943Nj5A+G2I8Zp3V8DW
+    rDO+LzY+QLHBwkmad1fApG/SNCg2PkBegehJmXdXwJzFi4UhNj5AQZyHE5h3V8BdpibBGzY+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PN9PjZcaZkA=
+  name: White Oak Road
+  oneway: false
+  osmid: 21169119
+  reversed: true
+  source: 227711613
+  target: 227629920
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAMAAAAzhsnhXl3V8BX7C+7Jzc+QGEXRQ98d1fALlkV4SY3PkDvb9BefXdXwFfsL7snNz5A
+    m8dhMH93V8CNYU7QJjc+QEFIFjCBd1fAb0ijAic3PkAKn62Dg3dXwMmTpGsmNz5AGohlM4d3V8Au
+    WRXhJjc+QM+9h0uOd1fAKJzdWiY3PkBuTbotkXdXwOHvF7MlNz5AFOgTeZJ3V8DD1mzlJTc+QOnv
+    pfCgd1fAEaj+QSQ3PkC4HRoWo3dXwHZtb7ckNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YxBYObSIbkA=
+  name: Circle 1 Street
+  oneway: false
+  osmid: 21169707
+  reversed: true
+  source: 227719813
+  target: 227707751
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAvmn67IB3V8C/ub963Dc+QBdnDHOCd1fAVDcXf9s3PkAWM8Lbg3dXwDYebLHbNz5A
+    hSSzeod3V8CdS3FV2Tc+QBNjmX6Jd1fAtafknNg3PkCbyqKwi3dXwNPAj2rYNz5AHVvPEI53V8DN
+    A1jk1zc+QD57LlOTd1fAqi11kNc3PkDLn28LlndXwM0DWOTXNz5AL058taN3V8A57pQO1jc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    g8DKoUWWaUA=
+  name: Circle 4 Street
+  oneway: false
+  osmid: 21170690
+  reversed: true
+  source: 227734445
+  target: 227707762
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAANWJmn8d3V8AIkKFjBzk+QEFEatrFd1fAi269pgc5PkCocW9+w3dXwLQB2IAIOT5A
+    Z7Yr9MF3V8AOTdnpBzk+QJJ6T+W0d1fAtAHYgAg5PkB1r5P6sndXwDfg88MIOT5AsRU0LbF3V8Ax
+    I7w9CDk+QAdA3NWrd1fAMSO8PQg5PkD9E1ysqHdXwK9EoPoHOT5AFqQZi6Z3V8C0AdiACDk+QLIS
+    86ykd1fAi269pgc5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nMQgsHKoaUA=
+  name: Elizabeth Street
+  oneway: false
+  osmid: 21170839
+  reversed: false
+  source: 227736776
+  target: 227707822
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAANWJmn8d3V8AIkKFjBzk+QLa+SGjLd1fA6nb2lQc5PkBWgsXhzHdXwBMKEXAIOT5A
+    vmiPF9J3V8BV+Z6RCDk+QIeL3NPVd1fAkSv1LAg5PkCjVpi+13dXwOp29pUHOT5A/5Hp0Ol3V8DS
+    GoNOCDk+QKvpeqLrd1fAeM+B5Qg5PkBuaTUk7ndXwJEr9SwIOT5Aj2/vGvR3V8CvRKD6Bzk+QLSw
+    px3+d1fAVfmekQg5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fT81Xrr9c0A=
+  name: Elizabeth Street
+  oneway: false
+  osmid: 21170839
+  reversed: true
+  source: 227736776
+  target: 227701171
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAANWJmn8d3V8AIkKFjBzk+QKysbYrHd1fAKZZbWg05PkC+F1+0x3dXwP1P/u4dOT5A
+    Xg8mxcd3V8AMWd3qOTk+QO2b+6vHd1fA5Eo9C0I5PkDVWS2wx3dXwEGDTZ1HOT5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Rbbz/dRAW0A=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227736776
+  target: 227773948
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAANWJmn8d3V8AIkKFjBzk+QEykNJvHd1fAW3wKgPE4PkA7OUNxx3dXwACsjhzpOD5A
+    C7Wmecd3V8BcqtIW1zg+QLKDSlzHd1fAXvWAecg4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0SLb+X6yWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227736776
+  target: 227770046
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAA2a873Xl3V8CwyK8fYjc+QAjMQ6Z8d1fAUcB2MGI3PkDqz36kiHdXwCgtXFZhNz5A
+    SKRt/Il3V8AKFLGIYTc+QK7UsyCUd1fAQInPnWA3PkCyRj1Eo3dXwNUGJ6JfNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pHA9CtdbbkA=
+  name: Circle 2 Street
+  oneway: false
+  osmid: 21172429
+  reversed: true
+  source: 227759221
+  target: 227707755
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAsoNKXMd3V8Be9YB5yDg+QM9Lxca8d1fAQNzVq8g4PkBNofMau3dXwASqfxDJOD5A
+    zvqUY7J3V8Bpb/CFyTg+QChgOxixd1fA4dOcvMg4PkBf7/54r3dXwOHTnLzIOD5Ad2UXDK53V8AX
+    SbvRxzg+QBVwz/Ond1fAw7rx7sg4PkBS1m8mpndXwBAk7xzKOD5AF/IIbqR3V8AiwyreyDg+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bOf7qfGyaUA=
+  name: Wayne Road
+  oneway: false
+  osmid: 21173289
+  reversed: false
+  source: 227770046
+  target: 227707808
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAARAAAAsoNKXMd3V8Be9YB5yDg+QDRIwVPId1fAOh+eJcg4PkDk2lAxzndXwJ/kDpvIOD5A
+    lG3gDtR3V8BA3NWryDg+QBvV6UDWd1fAHAbzV8g4PkBENLqD2HdXwJ/kDpvIOD5A3Qa139p3V8D/
+    7EeKyDg+QB6oUx7dd1fAgctjzcg4PkBGByRh33dXwJ/kDpvIOD5AfecXJeh3V8Bksrj/yDg+QAVP
+    IVfqd1fAQNzVq8g4PkA0hc5r7HdXwASqfxDJOD5AmwMEc/R3V8Bksrj/yDg+QKZjzjP2d1fARpkN
+    Msk4PkCr7Lsi+HdXwHwOLEfIOD5AY/IGmPl3V8Cf5A6byDg+QLqHhO/9d1fAHAbzV8g4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    B4GVQ4sEdEA=
+  name: Wayne Road
+  oneway: false
+  osmid: 21173289
+  reversed: true
+  source: 227770046
+  target: 227701158
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAsoNKXMd3V8Be9YB5yDg+QAu1pnnHd1fAXKrSFtc4PkA7OUNxx3dXwACsjhzpOD5A
+    TKQ0m8d3V8BbfAqA8Tg+QDViZp/Hd1fACJChYwc5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0iLb+X6yWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227770046
+  target: 227736776
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAAsoNKXMd3V8Be9YB5yDg+QGq932jHd1fAq0GY2704PkDE7juGx3dXwBQ/xty1OD5A
+    L4uJzcd3V8DdRC3NrTg+QCP3dHXHd1fAG0esxac4PkBk5gKXx3dXwGzoZn+gOD5A83LYfcd3V8Dv
+    jLYqiTg+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qvHSTWLwWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227770046
+  target: 227773897
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAg1FJnYB3V8Avih74GDg+QCkg7X+Ad1fAveKpRxo4PkBwsg3cgXdXwM+B5QgZOD5A
+    sB9ig4V3V8DtmpDWGDg+QNFZZhGKd1fAADrMlxc4PkAfSN45lHdXwLPQzmkWOD5AZFjFG5l3V8Dp
+    Re1+FTg+QCfYf52bd1fAij20jxU4PkBHkEqxo3dXwN7LfXIUOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yqFFtvMlakA=
+  name: Circle 5 Street
+  oneway: false
+  osmid: 21173539
+  reversed: true
+  source: 227773022
+  target: 227707770
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAX0NwXMZ3V8DJWdjTDjc+QHeFPljGd1fAZ4F2hxQ3PkBZbJOKxndXwC48LxUbNz5A
+    ca5hhsZ3V8BfeZCeIjc+QEcBomDGd1fAl3Mprio3PkBxrmGGxndXwIkpkUQvNz5ApgnbT8Z3V8CY
+    +KOoMzc+QInwL4LGd1fArYTukjg3PkAYfQVpxndXwFXbTfBNNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YOXQItvZWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227773784
+  target: 227702736
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAX0NwXMZ3V8DJWdjTDjc+QOj4aHHGd1fAr3jqkQY3PkAYfQVpxndXwCTwh5//Nj5A
+    4iGMn8Z3V8Bj8gaY+TY+QNxKr83Gd1fA2jnNAu02PkDiIYyfxndXwIUmiSXlNj5Aa9eEtMZ3V8BI
+    b7iP3DY+QLKd76fGd1fAzR39L9c2PkAGEhQ/xndXwKGd0yzQNj5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TTeJQWCtWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227773784
+  target: 227700931
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAMAAAAX0NwXMZ3V8DJWdjTDjc+QLmoFhHFd1fAaVGf5A43PkCKcmn8wndXwPkRv2INNz5A
+    kX2QZcF3V8Cgxr35DTc+QDmAft+/d1fAfPDapQ03PkBvD0JAvndXwF7XL9gNNz5ANCvbh7x3V8CH
+    akqyDjc+QKfs9IO6d1fA53KDoQ43PkDvAE9auHdXwOwvuycPNz5Af74tWKp3V8CNJ4I4Dzc+QB2v
+    QPSkd1fAh2pKsg43PkCJmX0eo3dXwMlZ2NMONz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fT81XrrlaUA=
+  name: Chauncy Street
+  oneway: false
+  osmid: 21175325
+  reversed: false
+  source: 227773784
+  target: 227707747
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAARAAAAX0NwXMZ3V8DJWdjTDjc+QP64/fLJd1fA53KDoQ43PkC6E+y/zndXwOwvuycPNz5A
+    L8IU5dJ3V8DJWdjTDjc+QFyq0hbXd1fAyVnY0w43PkAB3Zcz23dXwJPkub4PNz5AVtY2xeN3V8Az
+    3IDPDzc+QGVx/5Hpd1fAe4hGdxA3PkD+D7BW7XdXwFH1K50PNz5ACXB6F+93V8DgTbfsEDc+QCB+
+    /nvwd1fA7C+7Jw83PkDSrGwf8ndXwLH9ZIwPNz5APBVwz/N3V8Cx/WSMDzc+QMSWHk31d1fAOZm4
+    VRA3PkC9i/fj9ndXwHXLDvEPNz5AJqYLsfp3V8DU00fgDzc+QE8F3PP8d1fAP1bw2xA3PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4XoUrkcVdEA=
+  name: Chauncy Street
+  oneway: false
+  osmid: 21175325
+  reversed: true
+  source: 227773784
+  target: 227701021
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAAIxEawcZ3V8Dcn4uGjDc+QGUAqOLGd1fAFQK5xJE3PkCaWyGsxndXwB2s/3OYNz5A
+    3EqvzcZ3V8AyVTAqqTc+QGvXhLTGd1fAgxPRr603PkC+MQQAx3dXwHwL68a7Nz5AdmuZDMd3V8CR
+    tBt9zDc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    gsDKoUUuW0A=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227773823
+  target: 227697469
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAAIxEawcZ3V8Dcn4uGjDc+QMrfvaPGd1fAPfNy2H03PkAp6PaSxndXwBWOIJViNz5A
+    GH0FacZ3V8BV203wTTc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6Pup8dKNWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227773823
+  target: 227702736
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAMAAAAIxEawcZ3V8Dcn4uGjDc+QEmD29rCd1fAoG0164w3PkDNyYtMwHdXwJqw/WSMNz5A
+    2xMktrt3V8B9l1KXjDc+QCoZAKq4d1fAuMmoMow3PkDf/fFetXdXwFnBb0OMNz5ApU3VPbJ3V8CV
+    88Xeizc+QOLnvwevd1fAd9oaEYw3PkBJL2r3q3dXwEFl/PuMNz5AaLCp86h3V8CasP1kjDc+QMk6
+    HF2ld1fAGNLhIYw3PkBTPgRVo3dXwB2PGaiMNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NV66SQz+aUA=
+  name: Sandra Lane
+  oneway: false
+  osmid: 21175507
+  reversed: false
+  source: 227773823
+  target: 227707759
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAOAAAAIxEawcZ3V8Dcn4uGjDc+QFEtIorJd1fA/3Vu2ow3PkDOGryvyndXwNyfi4aMNz5A
+    nS6Lic13V8A7qMR1jDc+QE9d+SzPd1fA/3Vu2ow3PkDsUE1J1ndXwOJcwwyNNz5AEjElkuh3V8B9
+    l1KXjDc+QKwdxTnqd1fARiI0go03PkCAuoEC73dXwHfaGhGMNz5AKxIT1PB3V8CV88Xeizc+QPPm
+    cK32d1fAWcFvQ4w3PkDOqPkq+XdXwB2PGaiMNz5AdCmuKvt3V8BGIjSCjTc+QDHsMCb9d1fAmrD9
+    ZIw3PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    16NwPQr5c0A=
+  name: Sandra Lane
+  oneway: false
+  osmid: 21175507
+  reversed: true
+  source: 227773823
+  target: 227701063
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAysUYWMd3V8Bl4lZBDDg+QAu1pnnHd1fAKEhsdw84PkDhB+dTx3dXwIo9tI8VOD5A
+    OzlDccd3V8ADJ9vAHTg+QPNy2H3Hd1fAeUDZlCs4PkBqvd9ox3dXwEXylUBKOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FtnO91NTWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227773855
+  target: 227773879
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAysUYWMd3V8Bl4lZBDDg+QLhaJy7Hd1fAVRNE3Qc4PkDQnPUpx3dXwK6f/rPmNz5A
+    4QfnU8d3V8DMm8O12jc+QF8pyxDHd1fAfEW3XtM3PkB2a5kMx3dXwJG0G33MNz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    K4cW2c4XW0A=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227773855
+  target: 227697469
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAPAAAAysUYWMd3V8Bl4lZBDDg+QJSERNrGd1fAptHkYgw4PkBIG0esxXdXwMTqjzAMOD5A
+    WwhyUMJ3V8DtfaoKDTg+QFezzvi+d1fAR8mrcww4PkCxMhr5vHdXwE2G4/kMOD5A6MHdWbt3V8AG
+    2h1SDDg+QLrZHyi3d1fAg/sBDww4PkBWSPlJtXdXwL4tWKoLOD5A9FKxMa93V8AAHebLCzg+QH5W
+    mSmtd1fA3EYDeAs4PkBJSQ9Dq3dXwKEUrdwLOD5AmE7rNqh3V8AAHebLCzg+QMIv9fOmd1fA4gM7
+    /gs4PkBf0hito3dXwDaSBOEKOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OIlBYOUwakA=
+  name: June Street
+  oneway: false
+  osmid: 21174630
+  reversed: false
+  source: 227773855
+  target: 227707769
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAASAAAAysUYWMd3V8Bl4lZBDDg+QAkzbf/Kd1fAI/PIHww4PkA4g79fzHdXwOjAcoQMOD5A
+    i6n0E853V8CD+wEPDDg+QBi0kIDRd1fAoRSt3As4PkDyW3Sy1HdXwOjAcoQMOD5AYRkbutl3V8Do
+    wHKEDDg+QOPD7GXbd1fAuXAgJAs4PkA26iEa3XdXwBh5WRMLOD5A4UGz6953V8DowHKEDDg+QFyT
+    bkvkd1fAyqfHtgw4PkAwStBf6HdXwOIDO/4LOD5AxF+TNep3V8BHyatzDDg+QIf58gLsd1fAZeJW
+    QQw4PkAsRl1r73dXwE2G4/kMOD5AC0Pk9PV3V8DKp8e2DDg+QJOQSNv4d1fAXyUfuws4PkBVwhN6
+    /XdXwF8lH7sLOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    U+Olm8Tkc0A=
+  name: June Street
+  oneway: false
+  osmid: 21174630
+  reversed: true
+  source: 227773855
+  target: 227701105
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAAar3faMd3V8BF8pVASjg+QGq932jHd1fAINEEilg4PkDbMAqCx3dXwLEWnwJgOD5A
+    OzlDccd3V8AqAMYzaDg+QPNy2H3Hd1fA74y2Kok4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DAIrhxaxWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227773879
+  target: 227773897
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAAar3faMd3V8BF8pVASjg+QPNy2H3Hd1fAeUDZlCs4PkA7OUNxx3dXwAMn28AdOD5A
+    4QfnU8d3V8CKPbSPFTg+QAu1pnnHd1fAKEhsdw84PkDKxRhYx3dXwGXiVkEMOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FtnO91NTWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227773879
+  target: 227773855
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAar3faMd3V8BF8pVASjg+QJ0Rpb3Bd1fApPrOL0o4PkDCacGLvndXwMjQsYNKOD5A
+    7nvUX693V8DI0LGDSjg+QLluSnmtd1fAboWwGks4PkB/vi1YqndXwG6FsBpLOD5Angsjvah3V8D9
+    3TtqTDg+QLCqXn6nd1fAsHQ+PEs4PkCa6sn8o3dXwFFsBU1LOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    r0fhehQKakA=
+  name: Alice Street
+  oneway: false
+  osmid: 21179012
+  reversed: false
+  source: 227773879
+  target: 227707776
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAQAAAAar3faMd3V8BF8pVASjg+QIp1qnzPd1fA/kXQmEk4PkDicrwC0XdXwMITev1JOD5A
+    lKEqptJ3V8BjC0EOSjg+QC6Oyk3Ud1fA4Cwly0k4PkCwOJz51XdXwGMLQQ5KOD5ASddMvtl3V8A/
+    NV66STg+QIfCZ+vgd1fAyNCxg0o4PkCMS1Xa4ndXwEXylUBKOD5A6gWf5uR3V8CfPZepSTg+QK6f
+    /rPmd1fAvVZCd0k4PkDc1avI6HdXwEwXYvVHOD5Aai43GOp3V8Ck+s4vSjg+QM09JHzvd1fA5ulc
+    UUo4PkAO+WcG8XdXwEuvzcZKOD5A16Avvf13V8BLr83GSjg+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    KVyPwvX+c0A=
+  name: Alice Street
+  oneway: false
+  osmid: 21179012
+  reversed: true
+  source: 227773879
+  target: 227701136
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAA83LYfcd3V8DvjLYqiTg+QGTmApfHd1fAbOhmf6A4PkAj93R1x3dXwBtHrMWnOD5A
+    L4uJzcd3V8DdRC3NrTg+QMTuO4bHd1fAFD/G3LU4PkBqvd9ox3dXwKtBmNu9OD5AsoNKXMd3V8Be
+    9YB5yDg+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qvHSTWLwWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227773897
+  target: 227770046
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAA83LYfcd3V8DvjLYqiTg+QDs5Q3HHd1fAKgDGM2g4PkDbMAqCx3dXwLEWnwJgOD5A
+    ar3faMd3V8Ag0QSKWDg+QGq932jHd1fARfKVQEo4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DQIrhxaxWkA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227773897
+  target: 227773879
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAA83LYfcd3V8DvjLYqiTg+QBQlIZG2d1fAeCgK9Ik4PkD7d33mrHdXwPVJ7rCJOD5A
+    EOfhBKZ3V8CWQbXBiTg+QKxVuyakd1fAuReYFYo4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Rbbz/dToaUA=
+  name: Lea Street
+  oneway: false
+  osmid: 21175417
+  reversed: false
+  source: 227773897
+  target: 227707802
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAPAAAA83LYfcd3V8DvjLYqiTg+QOHTnLzId1fAisdFtYg4PkDfawiOy3dXwIUKDi+IOD5A
+    VoLF4cx3V8Co4PCCiDg+QN+I7lnXd1fArp0oCYk4PkAIAmTo2HdXwHJr0m2JOD5A492Rsdp3V8Ax
+    fERMiTg+QAlTlEvjd1fANzl80ok4PkCFQ2/x8HdXwO+MtiqJOD5ABrr2BfR3V8Bya9JtiTg+QPm9
+    TX/2d1fAGSDRBIo4PkDI0RxZ+XdXwJCEfTuJOD5AkUJZ+Pp3V8BUUiegiTg+QKN5AIv8d1fAtFpg
+    j4k4PkAfZ5qw/XdXwH7lQXqKOD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MgisHFrkc0A=
+  name: Lea Street
+  oneway: false
+  osmid: 21175417
+  reversed: true
+  source: 227773897
+  target: 227701144
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAA1VktsMd3V8BBg02dRzk+QLhAguLHd1fAKxTpfk45PkAdIJijx3dXwIAnLVxWOT5A
+    L4uJzcd3V8BNnx1wXTk+QKD+s+bHd1fA7Es2Hmw5PkAj3c8pyHdXwGxaKQRyOT5AQPZ698d3V8Ao
+    m3KFdzk+QKt4I/PId1fAQ+T09Xw5PkBYOEnzx3dXwAL1ZtR8OT5AcHoX78d3V8C8zRsnhTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8KfGSzchXEA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227773948
+  target: 227773987
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAA1VktsMd3V8BBg02dRzk+QO2b+6vHd1fA5Eo9C0I5PkBeDybFx3dXwAxZ3eo5OT5A
+    vhdftMd3V8D9T/7uHTk+QKysbYrHd1fAKZZbWg05PkA1Ymafx3dXwAiQoWMHOT5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Rrbz/dRAW0A=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227773948
+  target: 227736776
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAA1VktsMd3V8BBg02dRzk+QNDQP8HFd1fA/5O/e0c5PkBr1EM0undXwOc3TDRIOT5A
+    E9cxrrh3V8AFUfcBSDk+QDEkJxO3d1fAd/hrskY5PkAJ+aBns3dXwNYApaFGOT5ARl9BmrF3V8Ao
+    J9pVSDk+QJT5R9+kd1fAjexKy0g5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9P3UeOmaaUA=
+  name: Betsy Lane
+  oneway: false
+  osmid: 21176127
+  reversed: false
+  source: 227773948
+  target: 227707830
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAA1VktsMd3V8BBg02dRzk+QMbE5uPad1fAWd/A5EY5PkAY6xuY3HdXwIJy275HOT5A
+    oFIlyt53V8C+pDFaRzk+QIxLVdrid1fAfLWjOEc5PkAgYRiw5HdXwKCLhoxHOT5A88mK4ep3V8A7
+    xhUXRzk+QHmvWpnwd1fAXpz4akc5PkB3LSEf9HdXwMNhaeBHOT5ALH3ogvp3V8BkWTDxRzk+QN1d
+    Z0P+d1fAvqQxWkc5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sp3vp8YDdEA=
+  name: Betsy Lane
+  oneway: false
+  osmid: 21176127
+  reversed: true
+  source: 227773948
+  target: 227701174
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAcHoX78d3V8C8zRsnhTk+QI6TwrzHd1fAFVPpJ5w5PkDQnPUpx3dXwH9t/fSfOT5A
+    /wbt1cd3V8BKfVnaqTk+QIi85erHd1fAR60wfa85PkBGzVfJx3dXwNlaXyS0OT5AU3sRbcd3V8Al
+    XMgjuDk+QP8G7dXHd1fAe9egL705PkBk5gKXx3dXwFmGONbFOT5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MgisHFr0W0A=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: false
+  source: 227773987
+  target: 227774014
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAcHoX78d3V8C8zRsnhTk+QFg4SfPHd1fAAvVm1Hw5PkCreCPzyHdXwEPk9PV8OT5A
+    QPZ698d3V8Aom3KFdzk+QCPdzynId1fAbFopBHI5PkCg/rPmx3dXwOxLNh5sOT5AL4uJzcd3V8BN
+    nx1wXTk+QB0gmKPHd1fAgCctXFY5PkC4QILix3dXwCsU6X5OOT5A1VktsMd3V8BBg02dRzk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8KfGSzchXEA=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227773987
+  target: 227773948
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAcHoX78d3V8C8zRsnhTk+QPM7TWa8d1fAP6w3aoU5PkCQ+BVruHdXwGg/UkSGOT5A
+    gpGXNbF3V8BoP1JEhjk+QNY5BmSvd1fA6x1uh4Y5PkCJ0Ag2rndXwJ60cFmFOT5A8BezJat3V8C8
+    zRsnhTk+QAiOy7ipd1fA/bypSIU5PkADBd7Jp3dXwBUZHZCEOT5AXp7OFaV3V8BdxeI3hTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UbgeheuZaUA=
+  name: Patricia Lane
+  oneway: false
+  osmid: 21179024
+  reversed: false
+  source: 227773987
+  target: 227707855
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAARAAAAcHoX78d3V8C8zRsnhTk+QHBgcqPId1fAet6NBYU5PkB48BMH0HdXwICbxYuFOT5A
+    MPZefNF3V8DNBMO5hjk+QKpHGtzWd1fARGlv8IU5PkAfEOhM2ndXwGKCGr6FOT5Aldi1vd13V8Ck
+    cajfhTk+QL1RK0zfd1fASiandoY5PkBIjJ5b6HdXwIZY/RGGOT5AoImw4el3V8AsDfyohjk+QBxd
+    pbvrd1fAqS7gZYY5PkDUYvAw7XdXwG78icqGOT5A5ZmXw+53V8AO9FDbhjk+QHhHxmrzd1fAOIdr
+    tYc5PkD4iQPo93dXwLWoT3KHOT5A9tN/1vx3V8AabsDnhzk+QBl2GJP+d1fAOIdrtYc5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BoGVQ4sOdEA=
+  name: Patricia Lane
+  oneway: false
+  osmid: 21179024
+  reversed: true
+  source: 227773987
+  target: 227701198
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAJAAAAZOYCl8d3V8BZhjjWxTk+QP8G7dXHd1fAe9egL705PkBTexFtx3dXwCVcyCO4OT5A
+    Rs1Xycd3V8DZWl8ktDk+QIi85erHd1fAR60wfa85PkD/Bu3Vx3dXwEp9WdqpOT5A0Jz1Kcd3V8B/
+    bf30nzk+QI6TwrzHd1fAFVPpJ5w5PkBwehfvx3dXwLzNGyeFOT5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MAisHFr0W0A=
+  name: Sparks Road
+  oneway: false
+  osmid: 21173613
+  reversed: true
+  source: 227774014
+  target: 227773987
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAAZOYCl8d3V8BZhjjWxTk+QOksswjFd1fA+n3/5sU5PkC0Hykiw3dXwPTAx2DFOT5A
+    UaVmD7R3V8BUyQBQxTk+QFInoImwd1fAd5/jo8U5PkDcEOM1r3dXwDDzHfzEOT5Atf8B1qp3V8A2
+    sFWCxTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    46WbxCAYZUA=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: false
+  source: 227774014
+  target: 227803251
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAAZOYCl8d3V8BZhjjWxTk+QHCX/brTd1fAlbiOccU5PkAKavgW1ndXwNanHJPFOT5A
+    XmOXqN53V8D0wMdgxTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DAIrhxbpYEA=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: true
+  source: 227774014
+  target: 227701329
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAWHA/4IF3V8CBQdKnVTg+QG9kHvmDd1fAvXMoQ1U4PkDikA2ki3dXwF/Tg4JSOD5A
+    aaon8493V8Ad5PVgUjg+QKNaRBSTd1fANUBpqFE4PkCsUnqml3dXwPRQ24ZROD5AHZJaKJl3V8Aw
+    gzEiUTg+QGtmLQWkd1fAJAnCFVA4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9P3UeOkSaUA=
+  name: Circle 6 Street
+  oneway: false
+  osmid: 21173683
+  reversed: true
+  source: 227775017
+  target: 227707780
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAALAAAA0lYlkX13V8ANjLysiTk+QEW3XtODd1fA6x1uh4Y5PkAAxF29indXwD+sN2qFOT5A
+    RiI0go13V8D4/3HChDk+QI20VN6Od1fAOe//44Q5PkDNO07RkXdXwDMyyF2EOT5A4V8EjZl3V8Ds
+    hQK2gzk+QOAruvWad1fA8kI6PIQ5PkDxYmGInHdXwKuWdJSDOT5A1hwgmKN3V8AE4nX9gjk+QF6e
+    zhWld1fA+WcG8YE5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9Shcj8IRbUA=
+  name: Circle 9 Street
+  oneway: false
+  osmid: 21174799
+  reversed: true
+  source: 227789411
+  target: 227707850
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAGAAAA8UdRZ+53V8AYl6q0xTk+QAOzQpHud1fAYAK37uY5PkC77Ned7ndXwMv49xkXOj5A
+    LWACt+53V8DCa5c2HDo+QJ7TLNDud1fAkGgCRSw6PkBKXwg573dXwKJe8GlOOj5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /tR46SYBbUA=
+  name: Swisher Street
+  oneway: false
+  osmid: 21176083
+  reversed: true
+  source: 227802888
+  target: 227701263
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAA8UdRZ+53V8AYl6q0xTk+QO9054nnd1fA9MDHYMU5PkCkjSPW4ndXwNanHJPFOT5A
+    XmOXqN53V8D0wMdgxTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BFYOLbIVV0A=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: false
+  source: 227802888
+  target: 227701329
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAA8UdRZ+53V8AYl6q0xTk+QDIDlfHvd1fAGJeqtMU5PkCQvd798XdXwFTJAFDFOT5A
+    i1HX2vt3V8B3n+OjxTk+QOnxe5v+d1fA9MDHYMU5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UI2XbhLDV0A=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: true
+  source: 227802888
+  target: 227701209
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAtf8B1qp3V8A2sFWCxTk+QM7drpemd1fA1qcck8U5PkAX2GMipXdXwE4MycnEOT5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vp8aL93EQEA=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: false
+  source: 227803251
+  target: 227707880
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAHAAAAtf8B1qp3V8A2sFWCxTk+QNwQ4zWvd1fAMPMd/MQ5PkBSJ6CJsHdXwHef46PFOT5A
+    UaVmD7R3V8BUyQBQxTk+QLQfKSLDd1fA9MDHYMU5PkDpLLMIxXdXwPp9/+bFOT5AZOYCl8d3V8BZ
+    hjjWxTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    46WbxCAYZUA=
+  name: Roger Street
+  oneway: false
+  osmid: 21176119
+  reversed: true
+  source: 227803251
+  target: 227774014
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAAtf8B1qp3V8A2sFWCxTk+QD21+uqqd1fAXHNH/8s5PkBtOZfiqndXwE4pr5XQOT5A
+    l+ZWCKt3V8BLWYY41jk+QGdiuhCrd1fAO6dZoN05PkBV98jmqndXwBlW8UbmOT5AVffI5qp3V8Dp
+    nQq45zk+QFX3yOaqd1fAxeQNMPM5PkBDjNe8qndXwJ3zUxwHOj5ADksDP6p3V8A4S8lyEjo+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CKwcWmRbYEA=
+  name: Cooper Road
+  oneway: false
+  osmid: 21179299
+  reversed: false
+  source: 227803251
+  target: 227834608
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAOAAAAiPTb14F3V8Due9Rfrzg+QDkJpS+Ed1fAZeCAlq44PkBuMNRhhXdXwOi+nNmuOD5A
+    iV+xhot3V8BO7KF9rDg+QKwBSkONd1fAih74GKw4PkBAFw0Zj3dXwCsWvymsOD5AA7Fs5pB3V8Bn
+    SBXFqzg+QPylRX2Sd1fAKxa/Kaw4PkBhN2xblHdXwIRhwJKrOD5AjznP2Jd3V8AgnE8dqzg+QOc2
+    4V6Zd1fA5Gn5gas4PkDj/iPToXdXwGwFTUusOD5Av/T256J3V8C71t6nqjg+QJQT7Sqkd1fAeedQ
+    hqo4PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MzMzMzNLaUA=
+  name: Circle 7 Street
+  oneway: false
+  osmid: 21176357
+  reversed: true
+  source: 227805684
+  target: 227707805
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAIAAAAfCx96IJ3V8B/SwD+KTk+QJj3ONOEd1fAzhySWig5PkAlAtU/iHdXwPNaCd0lOT5A
+    TntKzol3V8BMpgpGJTk+QF9+p8mMd1fAjpWYZyU5PkCTV+cYkHdXwCnQJ/IkOT5A/HH75ZN3V8D/
+    PA0YJDk+QGpMiLmkd1fAKji8ICI5PkA=
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Itv5fmroaEA=
+  name: Circle 8 Street
+  oneway: false
+  osmid: 21178978
+  reversed: true
+  source: 227831394
+  target: 227707826
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAKAAAADksDP6p3V8A4S8lyEjo+QEOM17yqd1fAnfNTHAc6PkBV98jmqndXwMXkDTDzOT5A
+    VffI5qp3V8DpnQq45zk+QFX3yOaqd1fAGVbxRuY5PkBnYroQq3dXwDunWaDdOT5Al+ZWCKt3V8BL
+    WYY41jk+QG05l+Kqd1fATimvldA5PkA9tfrqqndXwFxzR//LOT5Atf8B1qp3V8A2sFWCxTk+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CawcWmRbYEA=
+  name: Cooper Road
+  oneway: false
+  osmid: 21179299
+  reversed: true
+  source: 227834608
+  target: 227803251
+multigraph: false
+nodes:
+- cost: -72
+  id: 227618710
+  major_damage:
+  - !!python/tuple
+    - 30.225132
+    - -93.867941
+  - !!python/tuple
+    - 30.225062
+    - -93.867943
+  - !!python/tuple
+    - 30.225059
+    - -93.867825
+  - !!python/tuple
+    - 30.225129
+    - -93.867823
+  - !!python/tuple
+    - 30.225132
+    - -93.867941
+  - !!python/tuple
+    - 30.226088
+    - -93.867239
+  - !!python/tuple
+    - 30.226081
+    - -93.867437
+  - !!python/tuple
+    - 30.225972
+    - -93.867432
+  - !!python/tuple
+    - 30.225974
+    - -93.867364
+  - !!python/tuple
+    - 30.226037
+    - -93.867366
+  - !!python/tuple
+    - 30.226041
+    - -93.867236
+  - !!python/tuple
+    - 30.226088
+    - -93.867239
+  minor_damage:
+  - !!python/tuple
+    - 30.224408
+    - -93.867639
+  - !!python/tuple
+    - 30.22605
+    - -93.867875
+  - !!python/tuple
+    - 30.226044
+    - -93.867615
+  - !!python/tuple
+    - 30.22609
+    - -93.867614
+  - !!python/tuple
+    - 30.226095
+    - -93.867874
+  - !!python/tuple
+    - 30.22605
+    - -93.867875
+  street_count: 1
+  x: -93.867294
+  y: 30.225708
+- cost: 0
+  id: 227629920
+  major_damage: []
+  minor_damage: []
+  street_count: 4
+  x: -93.868657
+  y: 30.211361
+- cost: -12
+  id: 227697404
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.217744
+    - -93.873658
+  - !!python/tuple
+    - 30.217743
+    - -93.873604
+  - !!python/tuple
+    - 30.217833
+    - -93.873602
+  - !!python/tuple
+    - 30.217834
+    - -93.873655
+  - !!python/tuple
+    - 30.217744
+    - -93.873658
+  - !!python/tuple
+    - 30.21775
+    - -93.873328
+  street_count: 3
+  x: -93.874846
+  y: 30.217971
+- cost: -18
+  id: 227697469
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.218234
+    - -93.870228
+  - !!python/tuple
+    - 30.218195
+    - -93.870228
+  - !!python/tuple
+    - 30.218197
+    - -93.870064
+  - !!python/tuple
+    - 30.218322
+    - -93.870066
+  - !!python/tuple
+    - 30.218321
+    - -93.870141
+  - !!python/tuple
+    - 30.218302
+    - -93.870141
+  - !!python/tuple
+    - 30.218301
+    - -93.870315
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  street_count: 4
+  x: -93.871524
+  y: 30.217964
+- cost: -46
+  id: 227697525
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.218234
+    - -93.870228
+  - !!python/tuple
+    - 30.218195
+    - -93.870228
+  - !!python/tuple
+    - 30.218197
+    - -93.870064
+  - !!python/tuple
+    - 30.218322
+    - -93.870066
+  - !!python/tuple
+    - 30.218321
+    - -93.870141
+  - !!python/tuple
+    - 30.218302
+    - -93.870141
+  - !!python/tuple
+    - 30.218301
+    - -93.870315
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.21787
+    - -93.8689
+  - !!python/tuple
+    - 30.217867
+    - -93.869031
+  - !!python/tuple
+    - 30.217753
+    - -93.869028
+  - !!python/tuple
+    - 30.217757
+    - -93.868825
+  - !!python/tuple
+    - 30.217922
+    - -93.86883
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  - !!python/tuple
+    - 30.217888
+    - -93.868075
+  - !!python/tuple
+    - 30.217885
+    - -93.868148
+  - !!python/tuple
+    - 30.217804
+    - -93.868144
+  - !!python/tuple
+    - 30.217811
+    - -93.86795
+  - !!python/tuple
+    - 30.217934
+    - -93.867956
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  street_count: 3
+  x: -93.869365
+  y: 30.217957
+- cost: -42
+  id: 227698611
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.218234
+    - -93.870228
+  - !!python/tuple
+    - 30.218195
+    - -93.870228
+  - !!python/tuple
+    - 30.218197
+    - -93.870064
+  - !!python/tuple
+    - 30.218322
+    - -93.870066
+  - !!python/tuple
+    - 30.218321
+    - -93.870141
+  - !!python/tuple
+    - 30.218302
+    - -93.870141
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.21787
+    - -93.8689
+  - !!python/tuple
+    - 30.217867
+    - -93.869031
+  - !!python/tuple
+    - 30.217753
+    - -93.869028
+  - !!python/tuple
+    - 30.217757
+    - -93.868825
+  - !!python/tuple
+    - 30.217922
+    - -93.86883
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  - !!python/tuple
+    - 30.217888
+    - -93.868075
+  - !!python/tuple
+    - 30.217885
+    - -93.868148
+  - !!python/tuple
+    - 30.217804
+    - -93.868144
+  - !!python/tuple
+    - 30.217811
+    - -93.86795
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  street_count: 3
+  x: -93.869347
+  y: 30.21723
+- cost: -144
+  id: 227698634
+  major_damage:
+  - !!python/tuple
+    - 30.216024
+    - -93.867255
+  - !!python/tuple
+    - 30.216029
+    - -93.867566
+  - !!python/tuple
+    - 30.217427
+    - -93.866507
+  - !!python/tuple
+    - 30.217426
+    - -93.866566
+  - !!python/tuple
+    - 30.217376
+    - -93.866565
+  - !!python/tuple
+    - 30.217377
+    - -93.866503
+  - !!python/tuple
+    - 30.217337
+    - -93.866502
+  - !!python/tuple
+    - 30.217339
+    - -93.866392
+  - !!python/tuple
+    - 30.217555
+    - -93.866397
+  - !!python/tuple
+    - 30.217553
+    - -93.86651
+  - !!python/tuple
+    - 30.217427
+    - -93.866507
+  minor_damage:
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  - !!python/tuple
+    - 30.217888
+    - -93.868075
+  - !!python/tuple
+    - 30.217885
+    - -93.868148
+  - !!python/tuple
+    - 30.217804
+    - -93.868144
+  - !!python/tuple
+    - 30.217811
+    - -93.86795
+  - !!python/tuple
+    - 30.217934
+    - -93.867956
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  - !!python/tuple
+    - 30.217818
+    - -93.867266
+  - !!python/tuple
+    - 30.21782
+    - -93.867188
+  - !!python/tuple
+    - 30.217922
+    - -93.867191
+  - !!python/tuple
+    - 30.217921
+    - -93.867269
+  - !!python/tuple
+    - 30.217818
+    - -93.867266
+  street_count: 1
+  x: -93.867194
+  y: 30.217307
+- cost: 0
+  id: 227700824
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.8677001
+  y: 30.2120515
+- cost: -120
+  id: 227700875
+  major_damage:
+  - !!python/tuple
+    - 30.214857
+    - -93.870104
+  - !!python/tuple
+    - 30.214857
+    - -93.870128
+  - !!python/tuple
+    - 30.214783
+    - -93.87013
+  - !!python/tuple
+    - 30.214781
+    - -93.870014
+  - !!python/tuple
+    - 30.214893
+    - -93.870012
+  - !!python/tuple
+    - 30.214895
+    - -93.870103
+  - !!python/tuple
+    - 30.214857
+    - -93.870104
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  - !!python/tuple
+    - 30.214768
+    - -93.870136
+  - !!python/tuple
+    - 30.214853
+    - -93.870135
+  - !!python/tuple
+    - 30.214855
+    - -93.870309
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  minor_damage:
+  - !!python/tuple
+    - 30.213777
+    - -93.869804
+  - !!python/tuple
+    - 30.213779
+    - -93.869713
+  - !!python/tuple
+    - 30.21385
+    - -93.869714
+  - !!python/tuple
+    - 30.213849
+    - -93.869805
+  - !!python/tuple
+    - 30.213777
+    - -93.869804
+  - !!python/tuple
+    - 30.21445
+    - -93.869656
+  - !!python/tuple
+    - 30.21431
+    - -93.869651
+  - !!python/tuple
+    - 30.214313
+    - -93.869522
+  - !!python/tuple
+    - 30.214453
+    - -93.869527
+  - !!python/tuple
+    - 30.21445
+    - -93.869656
+  street_count: 3
+  x: -93.869331
+  y: 30.214117
+- cost: -324
+  id: 227700931
+  major_damage:
+  - !!python/tuple
+    - 30.213395
+    - -93.87224
+  - !!python/tuple
+    - 30.21343
+    - -93.872273
+  - !!python/tuple
+    - 30.213391
+    - -93.872328
+  - !!python/tuple
+    - 30.213407
+    - -93.872343
+  - !!python/tuple
+    - 30.213373
+    - -93.872392
+  - !!python/tuple
+    - 30.213293
+    - -93.872316
+  - !!python/tuple
+    - 30.213344
+    - -93.872243
+  - !!python/tuple
+    - 30.213373
+    - -93.872271
+  - !!python/tuple
+    - 30.213395
+    - -93.87224
+  - !!python/tuple
+    - 30.214783
+    - -93.87013
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  - !!python/tuple
+    - 30.214768
+    - -93.870136
+  - !!python/tuple
+    - 30.214855
+    - -93.870309
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  - !!python/tuple
+    - 30.213507
+    - -93.872527
+  - !!python/tuple
+    - 30.21357
+    - -93.872449
+  - !!python/tuple
+    - 30.213631
+    - -93.872514
+  - !!python/tuple
+    - 30.213526
+    - -93.872645
+  - !!python/tuple
+    - 30.213424
+    - -93.872535
+  - !!python/tuple
+    - 30.213466
+    - -93.872482
+  - !!python/tuple
+    - 30.213507
+    - -93.872527
+  minor_damage:
+  - !!python/tuple
+    - 30.213493
+    - -93.871951
+  - !!python/tuple
+    - 30.213423
+    - -93.872118
+  - !!python/tuple
+    - 30.213386
+    - -93.872097
+  - !!python/tuple
+    - 30.213456
+    - -93.87193
+  - !!python/tuple
+    - 30.213493
+    - -93.871951
+  - !!python/tuple
+    - 30.213428
+    - -93.871895
+  - !!python/tuple
+    - 30.213406
+    - -93.871998
+  - !!python/tuple
+    - 30.213327
+    - -93.871976
+  - !!python/tuple
+    - 30.213349
+    - -93.871872
+  - !!python/tuple
+    - 30.213428
+    - -93.871895
+  - !!python/tuple
+    - 30.214789
+    - -93.871946
+  - !!python/tuple
+    - 30.214794
+    - -93.871826
+  - !!python/tuple
+    - 30.214937
+    - -93.871834
+  - !!python/tuple
+    - 30.214932
+    - -93.871954
+  - !!python/tuple
+    - 30.214789
+    - -93.871946
+  - !!python/tuple
+    - 30.213969
+    - -93.872481
+  - !!python/tuple
+    - 30.21397
+    - -93.872564
+  - !!python/tuple
+    - 30.213832
+    - -93.872567
+  - !!python/tuple
+    - 30.213828
+    - -93.872361
+  - !!python/tuple
+    - 30.213928
+    - -93.872358
+  - !!python/tuple
+    - 30.21393
+    - -93.872482
+  - !!python/tuple
+    - 30.213969
+    - -93.872481
+  - !!python/tuple
+    - 30.213509
+    - -93.872454
+  - !!python/tuple
+    - 30.213464
+    - -93.872364
+  - !!python/tuple
+    - 30.21356
+    - -93.8723
+  - !!python/tuple
+    - 30.213605
+    - -93.87239
+  - !!python/tuple
+    - 30.213509
+    - -93.872454
+  street_count: 3
+  x: -93.871475
+  y: 30.214114
+- cost: 0
+  id: 227701021
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.874814
+  y: 30.215101
+- cost: -10
+  id: 227701038
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.216549
+    - -93.873662
+  - !!python/tuple
+    - 30.216548
+    - -93.873611
+  - !!python/tuple
+    - 30.216611
+    - -93.87361
+  - !!python/tuple
+    - 30.216611
+    - -93.873661
+  - !!python/tuple
+    - 30.216549
+    - -93.873662
+  street_count: 3
+  x: -93.874816
+  y: 30.216062
+- cost: -18
+  id: 227701063
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.217744
+    - -93.873658
+  - !!python/tuple
+    - 30.217743
+    - -93.873604
+  - !!python/tuple
+    - 30.217834
+    - -93.873655
+  - !!python/tuple
+    - 30.217744
+    - -93.873658
+  - !!python/tuple
+    - 30.216549
+    - -93.873662
+  - !!python/tuple
+    - 30.216548
+    - -93.873611
+  - !!python/tuple
+    - 30.216611
+    - -93.87361
+  - !!python/tuple
+    - 30.216611
+    - -93.873661
+  - !!python/tuple
+    - 30.216549
+    - -93.873662
+  street_count: 3
+  x: -93.874826
+  y: 30.216986
+- cost: 0
+  id: 227701105
+  major_damage:
+  - !!python/tuple
+    - 30.21959
+    - -93.874352
+  - !!python/tuple
+    - 30.21957
+    - -93.874126
+  - !!python/tuple
+    - 30.219643
+    - -93.874117
+  - !!python/tuple
+    - 30.219663
+    - -93.874343
+  - !!python/tuple
+    - 30.21959
+    - -93.874352
+  minor_damage: []
+  street_count: 3
+  x: -93.874846
+  y: 30.218929
+- cost: 0
+  id: 227701136
+  major_damage:
+  - !!python/tuple
+    - 30.21959
+    - -93.874352
+  - !!python/tuple
+    - 30.21957
+    - -93.874126
+  - !!python/tuple
+    - 30.219643
+    - -93.874117
+  - !!python/tuple
+    - 30.219663
+    - -93.874343
+  - !!python/tuple
+    - 30.21959
+    - -93.874352
+  minor_damage: []
+  street_count: 3
+  x: -93.874862
+  y: 30.219891
+- cost: 0
+  id: 227701144
+  major_damage:
+  - !!python/tuple
+    - 30.21959
+    - -93.874352
+  - !!python/tuple
+    - 30.219663
+    - -93.874343
+  - !!python/tuple
+    - 30.21959
+    - -93.874352
+  minor_damage: []
+  street_count: 3
+  x: -93.874859
+  y: 30.220863
+- cost: -2
+  id: 227701158
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.221954
+    - -93.873326
+  street_count: 3
+  x: -93.874874
+  y: 30.221807
+- cost: 0
+  id: 227701171
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.874885
+  y: 30.222787
+- cost: 0
+  id: 227701174
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.874894
+  y: 30.223745
+- cost: 0
+  id: 227701198
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.874913
+  y: 30.224727
+- cost: 0
+  id: 227701209
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.874915
+  y: 30.225668
+- cost: -396
+  id: 227701263
+  major_damage:
+  - !!python/tuple
+    - 30.227921
+    - -93.874809
+  - !!python/tuple
+    - 30.228013
+    - -93.874812
+  - !!python/tuple
+    - 30.22801
+    - -93.874922
+  - !!python/tuple
+    - 30.227919
+    - -93.874919
+  - !!python/tuple
+    - 30.227921
+    - -93.874809
+  - !!python/tuple
+    - 30.227591
+    - -93.873392
+  - !!python/tuple
+    - 30.227547
+    - -93.873391
+  - !!python/tuple
+    - 30.227553
+    - -93.873153
+  - !!python/tuple
+    - 30.227592
+    - -93.873154
+  - !!python/tuple
+    - 30.22759
+    - -93.873272
+  - !!python/tuple
+    - 30.227617
+    - -93.873273
+  - !!python/tuple
+    - 30.227616
+    - -93.873348
+  - !!python/tuple
+    - 30.227593
+    - -93.873347
+  - !!python/tuple
+    - 30.227591
+    - -93.873392
+  minor_damage:
+  - !!python/tuple
+    - 30.22793
+    - -93.875357
+  - !!python/tuple
+    - 30.227909
+    - -93.875253
+  - !!python/tuple
+    - 30.22796
+    - -93.875239
+  - !!python/tuple
+    - 30.227972
+    - -93.875298
+  - !!python/tuple
+    - 30.228053
+    - -93.875276
+  - !!python/tuple
+    - 30.228069
+    - -93.875357
+  - !!python/tuple
+    - 30.228133
+    - -93.87534
+  - !!python/tuple
+    - 30.228146
+    - -93.875406
+  - !!python/tuple
+    - 30.228065
+    - -93.875428
+  - !!python/tuple
+    - 30.228052
+    - -93.875362
+  - !!python/tuple
+    - 30.227996
+    - -93.875377
+  - !!python/tuple
+    - 30.227989
+    - -93.875341
+  - !!python/tuple
+    - 30.22793
+    - -93.875357
+  - !!python/tuple
+    - 30.227597
+    - -93.874261
+  - !!python/tuple
+    - 30.227596
+    - -93.874336
+  - !!python/tuple
+    - 30.227478
+    - -93.874333
+  - !!python/tuple
+    - 30.227479
+    - -93.874258
+  - !!python/tuple
+    - 30.227597
+    - -93.874261
+  - !!python/tuple
+    - 30.227338
+    - -93.874399
+  - !!python/tuple
+    - 30.227346
+    - -93.874165
+  - !!python/tuple
+    - 30.227391
+    - -93.874167
+  - !!python/tuple
+    - 30.227383
+    - -93.874401
+  - !!python/tuple
+    - 30.227338
+    - -93.874399
+  - !!python/tuple
+    - 30.227867
+    - -93.874585
+  - !!python/tuple
+    - 30.22787
+    - -93.874504
+  - !!python/tuple
+    - 30.228041
+    - -93.874511
+  - !!python/tuple
+    - 30.228039
+    - -93.874591
+  - !!python/tuple
+    - 30.227867
+    - -93.874585
+  - !!python/tuple
+    - 30.227889
+    - -93.875422
+  - !!python/tuple
+    - 30.227718
+    - -93.875427
+  - !!python/tuple
+    - 30.227716
+    - -93.875314
+  - !!python/tuple
+    - 30.227887
+    - -93.875309
+  - !!python/tuple
+    - 30.227889
+    - -93.875422
+  street_count: 3
+  x: -93.873976
+  y: 30.227759
+- cost: 0
+  id: 227701329
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.872965
+  y: 30.225668
+- cost: -24
+  id: 227702736
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.215268
+    - -93.872295
+  - !!python/tuple
+    - 30.215394
+    - -93.872292
+  - !!python/tuple
+    - 30.215398
+    - -93.87251
+  - !!python/tuple
+    - 30.215329
+    - -93.872512
+  - !!python/tuple
+    - 30.215328
+    - -93.872447
+  - !!python/tuple
+    - 30.215271
+    - -93.872448
+  - !!python/tuple
+    - 30.215268
+    - -93.872295
+  - !!python/tuple
+    - 30.214789
+    - -93.871946
+  - !!python/tuple
+    - 30.214794
+    - -93.871826
+  - !!python/tuple
+    - 30.214937
+    - -93.871834
+  - !!python/tuple
+    - 30.214932
+    - -93.871954
+  - !!python/tuple
+    - 30.214789
+    - -93.871946
+  street_count: 4
+  x: -93.871485
+  y: 30.216033
+- cost: -108
+  id: 227702770
+  major_damage:
+  - !!python/tuple
+    - 30.214893
+    - -93.870012
+  - !!python/tuple
+    - 30.214895
+    - -93.870103
+  minor_damage:
+  - !!python/tuple
+    - 30.215602
+    - -93.868861
+  - !!python/tuple
+    - 30.215605
+    - -93.868697
+  - !!python/tuple
+    - 30.21568
+    - -93.868699
+  - !!python/tuple
+    - 30.21568
+    - -93.868737
+  - !!python/tuple
+    - 30.215718
+    - -93.868738
+  - !!python/tuple
+    - 30.215714
+    - -93.868944
+  - !!python/tuple
+    - 30.215639
+    - -93.868942
+  - !!python/tuple
+    - 30.21564
+    - -93.868862
+  - !!python/tuple
+    - 30.215602
+    - -93.868861
+  street_count: 3
+  x: -93.86934
+  y: 30.216053
+- cost: 0
+  id: 227704321
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.866391
+  y: 30.212943
+- cost: -204
+  id: 227707747
+  major_damage:
+  - !!python/tuple
+    - 30.214857
+    - -93.870104
+  - !!python/tuple
+    - 30.214857
+    - -93.870128
+  - !!python/tuple
+    - 30.214783
+    - -93.87013
+  - !!python/tuple
+    - 30.214781
+    - -93.870014
+  - !!python/tuple
+    - 30.214893
+    - -93.870012
+  - !!python/tuple
+    - 30.214895
+    - -93.870103
+  - !!python/tuple
+    - 30.214857
+    - -93.870104
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  - !!python/tuple
+    - 30.214768
+    - -93.870136
+  - !!python/tuple
+    - 30.214853
+    - -93.870135
+  - !!python/tuple
+    - 30.214855
+    - -93.870309
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  minor_damage:
+  - !!python/tuple
+    - 30.213779
+    - -93.869713
+  - !!python/tuple
+    - 30.21385
+    - -93.869714
+  - !!python/tuple
+    - 30.213849
+    - -93.869805
+  - !!python/tuple
+    - 30.21445
+    - -93.869656
+  - !!python/tuple
+    - 30.21431
+    - -93.869651
+  - !!python/tuple
+    - 30.214313
+    - -93.869522
+  - !!python/tuple
+    - 30.214453
+    - -93.869527
+  - !!python/tuple
+    - 30.21445
+    - -93.869656
+  - !!python/tuple
+    - 30.215602
+    - -93.868861
+  - !!python/tuple
+    - 30.215605
+    - -93.868697
+  - !!python/tuple
+    - 30.21568
+    - -93.868699
+  - !!python/tuple
+    - 30.21568
+    - -93.868737
+  - !!python/tuple
+    - 30.215718
+    - -93.868738
+  - !!python/tuple
+    - 30.215714
+    - -93.868944
+  - !!python/tuple
+    - 30.215639
+    - -93.868942
+  - !!python/tuple
+    - 30.21564
+    - -93.868862
+  - !!python/tuple
+    - 30.215602
+    - -93.868861
+  street_count: 3
+  x: -93.869331
+  y: 30.21507
+- cost: -168
+  id: 227707751
+  major_damage:
+  - !!python/tuple
+    - 30.214857
+    - -93.870104
+  - !!python/tuple
+    - 30.214857
+    - -93.870128
+  - !!python/tuple
+    - 30.214783
+    - -93.87013
+  - !!python/tuple
+    - 30.214781
+    - -93.870014
+  - !!python/tuple
+    - 30.214893
+    - -93.870012
+  - !!python/tuple
+    - 30.214895
+    - -93.870103
+  - !!python/tuple
+    - 30.214857
+    - -93.870104
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  - !!python/tuple
+    - 30.214768
+    - -93.870136
+  - !!python/tuple
+    - 30.214853
+    - -93.870135
+  - !!python/tuple
+    - 30.214855
+    - -93.870309
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  minor_damage:
+  - !!python/tuple
+    - 30.21445
+    - -93.869656
+  - !!python/tuple
+    - 30.21431
+    - -93.869651
+  - !!python/tuple
+    - 30.214313
+    - -93.869522
+  - !!python/tuple
+    - 30.214453
+    - -93.869527
+  - !!python/tuple
+    - 30.21445
+    - -93.869656
+  - !!python/tuple
+    - 30.215602
+    - -93.868861
+  - !!python/tuple
+    - 30.215605
+    - -93.868697
+  - !!python/tuple
+    - 30.21568
+    - -93.868699
+  - !!python/tuple
+    - 30.21568
+    - -93.868737
+  - !!python/tuple
+    - 30.215718
+    - -93.868738
+  - !!python/tuple
+    - 30.215714
+    - -93.868944
+  - !!python/tuple
+    - 30.215639
+    - -93.868942
+  - !!python/tuple
+    - 30.21564
+    - -93.868862
+  - !!python/tuple
+    - 30.215602
+    - -93.868861
+  street_count: 3
+  x: -93.869329
+  y: 30.215404
+- cost: -18
+  id: 227707755
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.215602
+    - -93.868861
+  - !!python/tuple
+    - 30.215605
+    - -93.868697
+  - !!python/tuple
+    - 30.21568
+    - -93.868699
+  - !!python/tuple
+    - 30.21568
+    - -93.868737
+  - !!python/tuple
+    - 30.215718
+    - -93.868738
+  - !!python/tuple
+    - 30.215714
+    - -93.868944
+  - !!python/tuple
+    - 30.215639
+    - -93.868942
+  - !!python/tuple
+    - 30.21564
+    - -93.868862
+  - !!python/tuple
+    - 30.215602
+    - -93.868861
+  street_count: 3
+  x: -93.86934
+  y: 30.216303
+- cost: -18
+  id: 227707759
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.21787
+    - -93.8689
+  - !!python/tuple
+    - 30.217867
+    - -93.869031
+  - !!python/tuple
+    - 30.217753
+    - -93.869028
+  - !!python/tuple
+    - 30.217757
+    - -93.868825
+  - !!python/tuple
+    - 30.217922
+    - -93.86883
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.215714
+    - -93.868944
+  - !!python/tuple
+    - 30.217804
+    - -93.868144
+  street_count: 3
+  x: -93.869344
+  y: 30.21699
+- cost: -46
+  id: 227707762
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.218234
+    - -93.870228
+  - !!python/tuple
+    - 30.218195
+    - -93.870228
+  - !!python/tuple
+    - 30.218197
+    - -93.870064
+  - !!python/tuple
+    - 30.218322
+    - -93.870066
+  - !!python/tuple
+    - 30.218321
+    - -93.870141
+  - !!python/tuple
+    - 30.218302
+    - -93.870141
+  - !!python/tuple
+    - 30.218301
+    - -93.870315
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.21787
+    - -93.8689
+  - !!python/tuple
+    - 30.217867
+    - -93.869031
+  - !!python/tuple
+    - 30.217753
+    - -93.869028
+  - !!python/tuple
+    - 30.217757
+    - -93.868825
+  - !!python/tuple
+    - 30.217922
+    - -93.86883
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  - !!python/tuple
+    - 30.217888
+    - -93.868075
+  - !!python/tuple
+    - 30.217885
+    - -93.868148
+  - !!python/tuple
+    - 30.217804
+    - -93.868144
+  - !!python/tuple
+    - 30.217811
+    - -93.86795
+  - !!python/tuple
+    - 30.217934
+    - -93.867956
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  street_count: 3
+  x: -93.869367
+  y: 30.21811
+- cost: -32
+  id: 227707769
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.218234
+    - -93.870228
+  - !!python/tuple
+    - 30.218195
+    - -93.870228
+  - !!python/tuple
+    - 30.218197
+    - -93.870064
+  - !!python/tuple
+    - 30.218322
+    - -93.870066
+  - !!python/tuple
+    - 30.218321
+    - -93.870141
+  - !!python/tuple
+    - 30.218302
+    - -93.870141
+  - !!python/tuple
+    - 30.218301
+    - -93.870315
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.21787
+    - -93.8689
+  - !!python/tuple
+    - 30.217867
+    - -93.869031
+  - !!python/tuple
+    - 30.217753
+    - -93.869028
+  - !!python/tuple
+    - 30.217757
+    - -93.868825
+  - !!python/tuple
+    - 30.217922
+    - -93.86883
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  street_count: 3
+  x: -93.869365
+  y: 30.218916
+- cost: -30
+  id: 227707770
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.218234
+    - -93.870228
+  - !!python/tuple
+    - 30.218195
+    - -93.870228
+  - !!python/tuple
+    - 30.218197
+    - -93.870064
+  - !!python/tuple
+    - 30.218322
+    - -93.870066
+  - !!python/tuple
+    - 30.218321
+    - -93.870141
+  - !!python/tuple
+    - 30.218302
+    - -93.870141
+  - !!python/tuple
+    - 30.218301
+    - -93.870315
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  - !!python/tuple
+    - 30.21787
+    - -93.8689
+  - !!python/tuple
+    - 30.217867
+    - -93.869031
+  - !!python/tuple
+    - 30.217753
+    - -93.869028
+  - !!python/tuple
+    - 30.217922
+    - -93.86883
+  - !!python/tuple
+    - 30.217921
+    - -93.868901
+  street_count: 3
+  x: -93.869366
+  y: 30.219062
+- cost: 0
+  id: 227707776
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.869384
+  y: 30.219899
+- cost: 0
+  id: 227707780
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.869386
+  y: 30.219972
+- cost: 0
+  id: 227707802
+  major_damage:
+  - !!python/tuple
+    - 30.221822
+    - -93.868451
+  - !!python/tuple
+    - 30.221746
+    - -93.868448
+  minor_damage: []
+  street_count: 3
+  x: -93.869394
+  y: 30.220857
+- cost: 0
+  id: 227707805
+  major_damage:
+  - !!python/tuple
+    - 30.221828
+    - -93.868197
+  - !!python/tuple
+    - 30.221822
+    - -93.868451
+  - !!python/tuple
+    - 30.221746
+    - -93.868448
+  - !!python/tuple
+    - 30.221752
+    - -93.868195
+  - !!python/tuple
+    - 30.221828
+    - -93.868197
+  minor_damage: []
+  street_count: 3
+  x: -93.869395
+  y: 30.221352
+- cost: -12
+  id: 227707808
+  major_damage:
+  - !!python/tuple
+    - 30.221828
+    - -93.868197
+  - !!python/tuple
+    - 30.221822
+    - -93.868451
+  - !!python/tuple
+    - 30.221746
+    - -93.868448
+  - !!python/tuple
+    - 30.221752
+    - -93.868195
+  - !!python/tuple
+    - 30.221828
+    - -93.868197
+  minor_damage:
+  - !!python/tuple
+    - 30.222462
+    - -93.870744
+  street_count: 3
+  x: -93.869411
+  y: 30.221815
+- cost: -216
+  id: 227707822
+  major_damage:
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  - !!python/tuple
+    - 30.22352
+    - -93.870467
+  - !!python/tuple
+    - 30.223325
+    - -93.870462
+  - !!python/tuple
+    - 30.223327
+    - -93.870332
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  - !!python/tuple
+    - 30.221822
+    - -93.868451
+  - !!python/tuple
+    - 30.221746
+    - -93.868448
+  minor_damage:
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222967
+    - -93.870921
+  - !!python/tuple
+    - 30.222968
+    - -93.870838
+  - !!python/tuple
+    - 30.223035
+    - -93.870839
+  - !!python/tuple
+    - 30.223037
+    - -93.870741
+  - !!python/tuple
+    - 30.223113
+    - -93.870743
+  - !!python/tuple
+    - 30.223111
+    - -93.870884
+  - !!python/tuple
+    - 30.223141
+    - -93.870884
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222555
+    - -93.87092
+  - !!python/tuple
+    - 30.222432
+    - -93.870913
+  - !!python/tuple
+    - 30.222462
+    - -93.870913
+  - !!python/tuple
+    - 30.222462
+    - -93.870744
+  - !!python/tuple
+    - 30.222613
+    - -93.870744
+  - !!python/tuple
+    - 30.222613
+    - -93.87083
+  - !!python/tuple
+    - 30.222581
+    - -93.87083
+  - !!python/tuple
+    - 30.222581
+    - -93.87092
+  - !!python/tuple
+    - 30.222555
+    - -93.87092
+  street_count: 3
+  x: -93.869426
+  y: 30.222773
+- cost: -168
+  id: 227707826
+  major_damage:
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  - !!python/tuple
+    - 30.22352
+    - -93.870467
+  - !!python/tuple
+    - 30.223325
+    - -93.870462
+  - !!python/tuple
+    - 30.223327
+    - -93.870332
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  minor_damage:
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222967
+    - -93.870921
+  - !!python/tuple
+    - 30.222968
+    - -93.870838
+  - !!python/tuple
+    - 30.223035
+    - -93.870839
+  - !!python/tuple
+    - 30.223037
+    - -93.870741
+  - !!python/tuple
+    - 30.223113
+    - -93.870743
+  - !!python/tuple
+    - 30.223111
+    - -93.870884
+  - !!python/tuple
+    - 30.223141
+    - -93.870884
+  - !!python/tuple
+    - 30.22314
+    - -93.870954
+  - !!python/tuple
+    - 30.22311
+    - -93.870953
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222462
+    - -93.870744
+  - !!python/tuple
+    - 30.222613
+    - -93.870744
+  - !!python/tuple
+    - 30.222613
+    - -93.87083
+  street_count: 3
+  x: -93.869429
+  y: 30.223177
+- cost: -72
+  id: 227707830
+  major_damage:
+  - !!python/tuple
+    - 30.224415
+    - -93.870794
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  - !!python/tuple
+    - 30.22352
+    - -93.870467
+  - !!python/tuple
+    - 30.223325
+    - -93.870462
+  - !!python/tuple
+    - 30.223327
+    - -93.870332
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  minor_damage:
+  - !!python/tuple
+    - 30.223037
+    - -93.870741
+  - !!python/tuple
+    - 30.223113
+    - -93.870743
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  - !!python/tuple
+    - 30.224985
+    - -93.868802
+  - !!python/tuple
+    - 30.224885
+    - -93.868798
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  street_count: 3
+  x: -93.869438
+  y: 30.223767
+- cost: -132
+  id: 227707850
+  major_damage:
+  - !!python/tuple
+    - 30.224417
+    - -93.870859
+  - !!python/tuple
+    - 30.224415
+    - -93.870794
+  - !!python/tuple
+    - 30.224477
+    - -93.870791
+  - !!python/tuple
+    - 30.224478
+    - -93.870811
+  - !!python/tuple
+    - 30.224566
+    - -93.870808
+  - !!python/tuple
+    - 30.224568
+    - -93.870887
+  - !!python/tuple
+    - 30.224512
+    - -93.870889
+  - !!python/tuple
+    - 30.224514
+    - -93.870959
+  - !!python/tuple
+    - 30.224419
+    - -93.870963
+  - !!python/tuple
+    - 30.224417
+    - -93.870914
+  - !!python/tuple
+    - 30.224391
+    - -93.870916
+  - !!python/tuple
+    - 30.224389
+    - -93.87086
+  - !!python/tuple
+    - 30.224417
+    - -93.870859
+  minor_damage:
+  - !!python/tuple
+    - 30.225404
+    - -93.868976
+  - !!python/tuple
+    - 30.225455
+    - -93.868975
+  - !!python/tuple
+    - 30.225459
+    - -93.869227
+  - !!python/tuple
+    - 30.225408
+    - -93.869228
+  - !!python/tuple
+    - 30.225404
+    - -93.868976
+  - !!python/tuple
+    - 30.225973
+    - -93.869617
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  - !!python/tuple
+    - 30.224987
+    - -93.86871
+  - !!python/tuple
+    - 30.224985
+    - -93.868802
+  - !!python/tuple
+    - 30.224885
+    - -93.868798
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  street_count: 3
+  x: -93.869451
+  y: 30.224639
+- cost: -180
+  id: 227707855
+  major_damage:
+  - !!python/tuple
+    - 30.224417
+    - -93.870859
+  - !!python/tuple
+    - 30.224415
+    - -93.870794
+  - !!python/tuple
+    - 30.224477
+    - -93.870791
+  - !!python/tuple
+    - 30.224478
+    - -93.870811
+  - !!python/tuple
+    - 30.224566
+    - -93.870808
+  - !!python/tuple
+    - 30.224568
+    - -93.870887
+  - !!python/tuple
+    - 30.224512
+    - -93.870889
+  - !!python/tuple
+    - 30.224514
+    - -93.870959
+  - !!python/tuple
+    - 30.224419
+    - -93.870963
+  - !!python/tuple
+    - 30.224417
+    - -93.870914
+  - !!python/tuple
+    - 30.224391
+    - -93.870916
+  - !!python/tuple
+    - 30.224389
+    - -93.87086
+  - !!python/tuple
+    - 30.224417
+    - -93.870859
+  minor_damage:
+  - !!python/tuple
+    - 30.225404
+    - -93.868976
+  - !!python/tuple
+    - 30.225455
+    - -93.868975
+  - !!python/tuple
+    - 30.225459
+    - -93.869227
+  - !!python/tuple
+    - 30.225408
+    - -93.869228
+  - !!python/tuple
+    - 30.225404
+    - -93.868976
+  - !!python/tuple
+    - 30.226016
+    - -93.869512
+  - !!python/tuple
+    - 30.225972
+    - -93.86972
+  - !!python/tuple
+    - 30.225973
+    - -93.869617
+  - !!python/tuple
+    - 30.226015
+    - -93.869618
+  - !!python/tuple
+    - 30.226016
+    - -93.869512
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  - !!python/tuple
+    - 30.224987
+    - -93.86871
+  - !!python/tuple
+    - 30.224985
+    - -93.868802
+  - !!python/tuple
+    - 30.224885
+    - -93.868798
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  street_count: 3
+  x: -93.869451
+  y: 30.224689
+- cost: -34
+  id: 227707880
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.225404
+    - -93.868976
+  - !!python/tuple
+    - 30.225455
+    - -93.868975
+  - !!python/tuple
+    - 30.225459
+    - -93.869227
+  - !!python/tuple
+    - 30.225408
+    - -93.869228
+  - !!python/tuple
+    - 30.225404
+    - -93.868976
+  - !!python/tuple
+    - 30.226016
+    - -93.869512
+  - !!python/tuple
+    - 30.226111
+    - -93.869513
+  - !!python/tuple
+    - 30.226108
+    - -93.869722
+  - !!python/tuple
+    - 30.225972
+    - -93.86972
+  - !!python/tuple
+    - 30.225973
+    - -93.869617
+  - !!python/tuple
+    - 30.226015
+    - -93.869618
+  - !!python/tuple
+    - 30.226016
+    - -93.869512
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  - !!python/tuple
+    - 30.224987
+    - -93.86871
+  - !!python/tuple
+    - 30.224985
+    - -93.868802
+  - !!python/tuple
+    - 30.224885
+    - -93.868798
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  street_count: 3
+  x: -93.869454
+  y: 30.225659
+- cost: -10
+  id: 227711613
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.213777
+    - -93.869804
+  - !!python/tuple
+    - 30.213779
+    - -93.869713
+  - !!python/tuple
+    - 30.21385
+    - -93.869714
+  - !!python/tuple
+    - 30.213849
+    - -93.869805
+  - !!python/tuple
+    - 30.213777
+    - -93.869804
+  street_count: 1
+  x: -93.869006
+  y: 30.212903
+- cost: 0
+  id: 227719813
+  major_damage:
+  - !!python/tuple
+    - 30.215931
+    - -93.867509
+  - !!python/tuple
+    - 30.215927
+    - -93.867257
+  - !!python/tuple
+    - 30.216024
+    - -93.867255
+  - !!python/tuple
+    - 30.216029
+    - -93.867566
+  - !!python/tuple
+    - 30.21595
+    - -93.867567
+  - !!python/tuple
+    - 30.215949
+    - -93.867508
+  - !!python/tuple
+    - 30.215931
+    - -93.867509
+  minor_damage: []
+  street_count: 1
+  x: -93.866792
+  y: 30.21545
+- cost: -144
+  id: 227734445
+  major_damage:
+  - !!python/tuple
+    - 30.217427
+    - -93.866507
+  - !!python/tuple
+    - 30.217426
+    - -93.866566
+  - !!python/tuple
+    - 30.217376
+    - -93.866565
+  - !!python/tuple
+    - 30.217377
+    - -93.866503
+  - !!python/tuple
+    - 30.217337
+    - -93.866502
+  - !!python/tuple
+    - 30.217339
+    - -93.866392
+  - !!python/tuple
+    - 30.217555
+    - -93.866397
+  - !!python/tuple
+    - 30.217553
+    - -93.86651
+  - !!python/tuple
+    - 30.217427
+    - -93.866507
+  minor_damage:
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  - !!python/tuple
+    - 30.217888
+    - -93.868075
+  - !!python/tuple
+    - 30.217885
+    - -93.868148
+  - !!python/tuple
+    - 30.217804
+    - -93.868144
+  - !!python/tuple
+    - 30.217811
+    - -93.86795
+  - !!python/tuple
+    - 30.217934
+    - -93.867956
+  - !!python/tuple
+    - 30.217929
+    - -93.868078
+  - !!python/tuple
+    - 30.217818
+    - -93.867266
+  - !!python/tuple
+    - 30.21782
+    - -93.867188
+  - !!python/tuple
+    - 30.217922
+    - -93.867191
+  - !!python/tuple
+    - 30.217921
+    - -93.867269
+  - !!python/tuple
+    - 30.217818
+    - -93.867266
+  street_count: 1
+  x: -93.867244
+  y: 30.218208
+- cost: -312
+  id: 227736776
+  major_damage:
+  - !!python/tuple
+    - 30.223012
+    - -93.872095
+  - !!python/tuple
+    - 30.22301
+    - -93.871922
+  - !!python/tuple
+    - 30.223128
+    - -93.87192
+  - !!python/tuple
+    - 30.22313
+    - -93.872093
+  - !!python/tuple
+    - 30.223012
+    - -93.872095
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  - !!python/tuple
+    - 30.22352
+    - -93.870467
+  - !!python/tuple
+    - 30.223325
+    - -93.870462
+  - !!python/tuple
+    - 30.223327
+    - -93.870332
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  minor_damage:
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222967
+    - -93.870921
+  - !!python/tuple
+    - 30.222968
+    - -93.870838
+  - !!python/tuple
+    - 30.223035
+    - -93.870839
+  - !!python/tuple
+    - 30.223037
+    - -93.870741
+  - !!python/tuple
+    - 30.223113
+    - -93.870743
+  - !!python/tuple
+    - 30.223111
+    - -93.870884
+  - !!python/tuple
+    - 30.223141
+    - -93.870884
+  - !!python/tuple
+    - 30.22314
+    - -93.870954
+  - !!python/tuple
+    - 30.22311
+    - -93.870953
+  - !!python/tuple
+    - 30.223108
+    - -93.871082
+  - !!python/tuple
+    - 30.222988
+    - -93.87108
+  - !!python/tuple
+    - 30.222989
+    - -93.870993
+  - !!python/tuple
+    - 30.223037
+    - -93.870994
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222555
+    - -93.87092
+  - !!python/tuple
+    - 30.222555
+    - -93.870991
+  - !!python/tuple
+    - 30.222432
+    - -93.870991
+  - !!python/tuple
+    - 30.222432
+    - -93.870913
+  - !!python/tuple
+    - 30.222462
+    - -93.870913
+  - !!python/tuple
+    - 30.222462
+    - -93.870744
+  - !!python/tuple
+    - 30.222613
+    - -93.870744
+  - !!python/tuple
+    - 30.222613
+    - -93.87083
+  - !!python/tuple
+    - 30.222581
+    - -93.87083
+  - !!python/tuple
+    - 30.222581
+    - -93.87092
+  - !!python/tuple
+    - 30.222555
+    - -93.87092
+  street_count: 4
+  x: -93.871559
+  y: 30.222769
+- cost: 0
+  id: 227759221
+  major_damage:
+  - !!python/tuple
+    - 30.215931
+    - -93.867509
+  - !!python/tuple
+    - 30.215927
+    - -93.867257
+  - !!python/tuple
+    - 30.216024
+    - -93.867255
+  - !!python/tuple
+    - 30.216029
+    - -93.867566
+  - !!python/tuple
+    - 30.21595
+    - -93.867567
+  - !!python/tuple
+    - 30.215949
+    - -93.867508
+  - !!python/tuple
+    - 30.215931
+    - -93.867509
+  - !!python/tuple
+    - 30.217427
+    - -93.866507
+  - !!python/tuple
+    - 30.217426
+    - -93.866566
+  - !!python/tuple
+    - 30.217376
+    - -93.866565
+  - !!python/tuple
+    - 30.217377
+    - -93.866503
+  - !!python/tuple
+    - 30.217337
+    - -93.866502
+  - !!python/tuple
+    - 30.217339
+    - -93.866392
+  - !!python/tuple
+    - 30.217555
+    - -93.866397
+  - !!python/tuple
+    - 30.217553
+    - -93.86651
+  - !!python/tuple
+    - 30.217427
+    - -93.866507
+  minor_damage: []
+  street_count: 1
+  x: -93.866813
+  y: 30.216341
+- cost: -348
+  id: 227770046
+  major_damage:
+  - !!python/tuple
+    - 30.223012
+    - -93.872095
+  - !!python/tuple
+    - 30.22301
+    - -93.871922
+  - !!python/tuple
+    - 30.223012
+    - -93.872095
+  minor_damage:
+  - !!python/tuple
+    - 30.221166
+    - -93.871733
+  - !!python/tuple
+    - 30.221165
+    - -93.871775
+  - !!python/tuple
+    - 30.221189
+    - -93.871775
+  - !!python/tuple
+    - 30.221188
+    - -93.871856
+  - !!python/tuple
+    - 30.221167
+    - -93.871855
+  - !!python/tuple
+    - 30.221166
+    - -93.871925
+  - !!python/tuple
+    - 30.221008
+    - -93.871922
+  - !!python/tuple
+    - 30.221009
+    - -93.871828
+  - !!python/tuple
+    - 30.22107
+    - -93.871829
+  - !!python/tuple
+    - 30.221071
+    - -93.871732
+  - !!python/tuple
+    - 30.221166
+    - -93.871733
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222967
+    - -93.870921
+  - !!python/tuple
+    - 30.222968
+    - -93.870838
+  - !!python/tuple
+    - 30.222988
+    - -93.87108
+  - !!python/tuple
+    - 30.222989
+    - -93.870993
+  - !!python/tuple
+    - 30.223037
+    - -93.870994
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222555
+    - -93.87092
+  - !!python/tuple
+    - 30.222555
+    - -93.870991
+  - !!python/tuple
+    - 30.222432
+    - -93.870991
+  - !!python/tuple
+    - 30.222432
+    - -93.870913
+  - !!python/tuple
+    - 30.222462
+    - -93.870913
+  - !!python/tuple
+    - 30.222462
+    - -93.870744
+  - !!python/tuple
+    - 30.222613
+    - -93.870744
+  - !!python/tuple
+    - 30.222613
+    - -93.87083
+  - !!python/tuple
+    - 30.222581
+    - -93.87083
+  - !!python/tuple
+    - 30.222581
+    - -93.87092
+  - !!python/tuple
+    - 30.222555
+    - -93.87092
+  street_count: 4
+  x: -93.871543
+  y: 30.221809
+- cost: -10
+  id: 227773022
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.217818
+    - -93.867266
+  - !!python/tuple
+    - 30.21782
+    - -93.867188
+  - !!python/tuple
+    - 30.217922
+    - -93.867191
+  - !!python/tuple
+    - 30.217921
+    - -93.867269
+  - !!python/tuple
+    - 30.217818
+    - -93.867266
+  street_count: 1
+  x: -93.867225
+  y: 30.219131
+- cost: -144
+  id: 227773784
+  major_damage:
+  - !!python/tuple
+    - 30.214857
+    - -93.870104
+  - !!python/tuple
+    - 30.214857
+    - -93.870128
+  - !!python/tuple
+    - 30.214783
+    - -93.87013
+  - !!python/tuple
+    - 30.214781
+    - -93.870014
+  - !!python/tuple
+    - 30.214893
+    - -93.870012
+  - !!python/tuple
+    - 30.214895
+    - -93.870103
+  - !!python/tuple
+    - 30.214857
+    - -93.870104
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  - !!python/tuple
+    - 30.214768
+    - -93.870136
+  - !!python/tuple
+    - 30.214853
+    - -93.870135
+  - !!python/tuple
+    - 30.214855
+    - -93.870309
+  - !!python/tuple
+    - 30.214769
+    - -93.87031
+  minor_damage:
+  - !!python/tuple
+    - 30.215268
+    - -93.872295
+  - !!python/tuple
+    - 30.215394
+    - -93.872292
+  - !!python/tuple
+    - 30.215398
+    - -93.87251
+  - !!python/tuple
+    - 30.215329
+    - -93.872512
+  - !!python/tuple
+    - 30.215328
+    - -93.872447
+  - !!python/tuple
+    - 30.215271
+    - -93.872448
+  - !!python/tuple
+    - 30.215268
+    - -93.872295
+  - !!python/tuple
+    - 30.214789
+    - -93.871946
+  - !!python/tuple
+    - 30.214794
+    - -93.871826
+  - !!python/tuple
+    - 30.214937
+    - -93.871834
+  - !!python/tuple
+    - 30.214932
+    - -93.871954
+  - !!python/tuple
+    - 30.214789
+    - -93.871946
+  street_count: 4
+  x: -93.871482
+  y: 30.21507
+- cost: 0
+  id: 227773823
+  major_damage: []
+  minor_damage: []
+  street_count: 4
+  x: -93.871506
+  y: 30.216988
+- cost: -8
+  id: 227773855
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  - !!python/tuple
+    - 30.218234
+    - -93.870228
+  - !!python/tuple
+    - 30.218301
+    - -93.870315
+  - !!python/tuple
+    - 30.218234
+    - -93.870314
+  street_count: 4
+  x: -93.871542
+  y: 30.218937
+- cost: -22
+  id: 227773879
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.221166
+    - -93.871733
+  - !!python/tuple
+    - 30.221165
+    - -93.871775
+  - !!python/tuple
+    - 30.221189
+    - -93.871775
+  - !!python/tuple
+    - 30.221188
+    - -93.871856
+  - !!python/tuple
+    - 30.221167
+    - -93.871855
+  - !!python/tuple
+    - 30.221166
+    - -93.871925
+  - !!python/tuple
+    - 30.221008
+    - -93.871922
+  - !!python/tuple
+    - 30.221009
+    - -93.871828
+  - !!python/tuple
+    - 30.22107
+    - -93.871829
+  - !!python/tuple
+    - 30.221071
+    - -93.871732
+  - !!python/tuple
+    - 30.221166
+    - -93.871733
+  street_count: 4
+  x: -93.871546
+  y: 30.219883
+- cost: -22
+  id: 227773897
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.221166
+    - -93.871733
+  - !!python/tuple
+    - 30.221165
+    - -93.871775
+  - !!python/tuple
+    - 30.221189
+    - -93.871775
+  - !!python/tuple
+    - 30.221188
+    - -93.871856
+  - !!python/tuple
+    - 30.221167
+    - -93.871855
+  - !!python/tuple
+    - 30.221166
+    - -93.871925
+  - !!python/tuple
+    - 30.221008
+    - -93.871922
+  - !!python/tuple
+    - 30.221009
+    - -93.871828
+  - !!python/tuple
+    - 30.22107
+    - -93.871829
+  - !!python/tuple
+    - 30.221071
+    - -93.871732
+  - !!python/tuple
+    - 30.221166
+    - -93.871733
+  street_count: 4
+  x: -93.871551
+  y: 30.220843
+- cost: -264
+  id: 227773948
+  major_damage:
+  - !!python/tuple
+    - 30.223012
+    - -93.872095
+  - !!python/tuple
+    - 30.22301
+    - -93.871922
+  - !!python/tuple
+    - 30.223128
+    - -93.87192
+  - !!python/tuple
+    - 30.22313
+    - -93.872093
+  - !!python/tuple
+    - 30.223012
+    - -93.872095
+  - !!python/tuple
+    - 30.224417
+    - -93.870859
+  - !!python/tuple
+    - 30.224415
+    - -93.870794
+  - !!python/tuple
+    - 30.224477
+    - -93.870791
+  - !!python/tuple
+    - 30.224478
+    - -93.870811
+  - !!python/tuple
+    - 30.224566
+    - -93.870808
+  - !!python/tuple
+    - 30.224568
+    - -93.870887
+  - !!python/tuple
+    - 30.224512
+    - -93.870889
+  - !!python/tuple
+    - 30.224514
+    - -93.870959
+  - !!python/tuple
+    - 30.224419
+    - -93.870963
+  - !!python/tuple
+    - 30.224417
+    - -93.870914
+  - !!python/tuple
+    - 30.224391
+    - -93.870916
+  - !!python/tuple
+    - 30.224389
+    - -93.87086
+  - !!python/tuple
+    - 30.224417
+    - -93.870859
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  - !!python/tuple
+    - 30.22352
+    - -93.870467
+  - !!python/tuple
+    - 30.223325
+    - -93.870462
+  - !!python/tuple
+    - 30.223327
+    - -93.870332
+  - !!python/tuple
+    - 30.223523
+    - -93.870337
+  minor_damage:
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222967
+    - -93.870921
+  - !!python/tuple
+    - 30.222968
+    - -93.870838
+  - !!python/tuple
+    - 30.223035
+    - -93.870839
+  - !!python/tuple
+    - 30.223037
+    - -93.870741
+  - !!python/tuple
+    - 30.223113
+    - -93.870743
+  - !!python/tuple
+    - 30.223111
+    - -93.870884
+  - !!python/tuple
+    - 30.223141
+    - -93.870884
+  - !!python/tuple
+    - 30.22314
+    - -93.870954
+  - !!python/tuple
+    - 30.22311
+    - -93.870953
+  - !!python/tuple
+    - 30.223108
+    - -93.871082
+  - !!python/tuple
+    - 30.222988
+    - -93.87108
+  - !!python/tuple
+    - 30.222989
+    - -93.870993
+  - !!python/tuple
+    - 30.223037
+    - -93.870994
+  - !!python/tuple
+    - 30.223038
+    - -93.870923
+  - !!python/tuple
+    - 30.222555
+    - -93.87092
+  - !!python/tuple
+    - 30.222555
+    - -93.870991
+  - !!python/tuple
+    - 30.222613
+    - -93.870744
+  - !!python/tuple
+    - 30.222613
+    - -93.87083
+  - !!python/tuple
+    - 30.222581
+    - -93.87083
+  - !!python/tuple
+    - 30.222581
+    - -93.87092
+  - !!python/tuple
+    - 30.222555
+    - -93.87092
+  street_count: 4
+  x: -93.871563
+  y: 30.223749
+- cost: 0
+  id: 227773987
+  major_damage:
+  - !!python/tuple
+    - 30.224417
+    - -93.870859
+  - !!python/tuple
+    - 30.224415
+    - -93.870794
+  - !!python/tuple
+    - 30.224477
+    - -93.870791
+  - !!python/tuple
+    - 30.224478
+    - -93.870811
+  - !!python/tuple
+    - 30.224566
+    - -93.870808
+  - !!python/tuple
+    - 30.224568
+    - -93.870887
+  - !!python/tuple
+    - 30.224512
+    - -93.870889
+  - !!python/tuple
+    - 30.224514
+    - -93.870959
+  - !!python/tuple
+    - 30.224419
+    - -93.870963
+  - !!python/tuple
+    - 30.224417
+    - -93.870914
+  - !!python/tuple
+    - 30.224391
+    - -93.870916
+  - !!python/tuple
+    - 30.224389
+    - -93.87086
+  - !!python/tuple
+    - 30.224417
+    - -93.870859
+  minor_damage: []
+  street_count: 4
+  x: -93.871578
+  y: 30.224688
+- cost: 0
+  id: 227774014
+  major_damage:
+  - !!python/tuple
+    - 30.224566
+    - -93.870808
+  - !!python/tuple
+    - 30.224568
+    - -93.870887
+  - !!python/tuple
+    - 30.224512
+    - -93.870889
+  - !!python/tuple
+    - 30.224514
+    - -93.870959
+  minor_damage: []
+  street_count: 3
+  x: -93.871557
+  y: 30.225675
+- cost: 0
+  id: 227775017
+  major_damage: []
+  minor_damage: []
+  street_count: 1
+  x: -93.867302
+  y: 30.220057
+- cost: -144
+  id: 227789411
+  major_damage:
+  - !!python/tuple
+    - 30.225132
+    - -93.867941
+  - !!python/tuple
+    - 30.225062
+    - -93.867943
+  - !!python/tuple
+    - 30.225059
+    - -93.867825
+  - !!python/tuple
+    - 30.225129
+    - -93.867823
+  - !!python/tuple
+    - 30.225132
+    - -93.867941
+  - !!python/tuple
+    - 30.226088
+    - -93.867239
+  - !!python/tuple
+    - 30.225972
+    - -93.867432
+  - !!python/tuple
+    - 30.225974
+    - -93.867364
+  - !!python/tuple
+    - 30.226037
+    - -93.867366
+  - !!python/tuple
+    - 30.226041
+    - -93.867236
+  - !!python/tuple
+    - 30.226088
+    - -93.867239
+  minor_damage:
+  - !!python/tuple
+    - 30.224338
+    - -93.867639
+  - !!python/tuple
+    - 30.224408
+    - -93.867639
+  - !!python/tuple
+    - 30.224408
+    - -93.86773
+  - !!python/tuple
+    - 30.224282
+    - -93.867731
+  - !!python/tuple
+    - 30.224282
+    - -93.867676
+  - !!python/tuple
+    - 30.224338
+    - -93.867675
+  - !!python/tuple
+    - 30.224338
+    - -93.867639
+  - !!python/tuple
+    - 30.224368
+    - -93.8665
+  - !!python/tuple
+    - 30.224474
+    - -93.866433
+  - !!python/tuple
+    - 30.224523
+    - -93.866537
+  - !!python/tuple
+    - 30.224416
+    - -93.866604
+  - !!python/tuple
+    - 30.224368
+    - -93.8665
+  street_count: 1
+  x: -93.867039
+  y: 30.224757
+- cost: 0
+  id: 227802888
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.873926
+  y: 30.225673
+- cost: -34
+  id: 227803251
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.225404
+    - -93.868976
+  - !!python/tuple
+    - 30.225455
+    - -93.868975
+  - !!python/tuple
+    - 30.225459
+    - -93.869227
+  - !!python/tuple
+    - 30.225408
+    - -93.869228
+  - !!python/tuple
+    - 30.225404
+    - -93.868976
+  - !!python/tuple
+    - 30.226016
+    - -93.869512
+  - !!python/tuple
+    - 30.226111
+    - -93.869513
+  - !!python/tuple
+    - 30.226108
+    - -93.869722
+  - !!python/tuple
+    - 30.225972
+    - -93.86972
+  - !!python/tuple
+    - 30.225973
+    - -93.869617
+  - !!python/tuple
+    - 30.226015
+    - -93.869618
+  - !!python/tuple
+    - 30.226016
+    - -93.869512
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  - !!python/tuple
+    - 30.224987
+    - -93.86871
+  - !!python/tuple
+    - 30.224985
+    - -93.868802
+  - !!python/tuple
+    - 30.224885
+    - -93.868798
+  - !!python/tuple
+    - 30.224888
+    - -93.868706
+  street_count: 3
+  x: -93.869802
+  y: 30.22567
+- cost: 0
+  id: 227805684
+  major_damage:
+  - !!python/tuple
+    - 30.221828
+    - -93.868197
+  - !!python/tuple
+    - 30.221822
+    - -93.868451
+  - !!python/tuple
+    - 30.221746
+    - -93.868448
+  - !!python/tuple
+    - 30.221752
+    - -93.868195
+  - !!python/tuple
+    - 30.221828
+    - -93.868197
+  minor_damage: []
+  street_count: 1
+  x: -93.8673
+  y: 30.221426
+- cost: -20
+  id: 227831394
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.224338
+    - -93.867639
+  - !!python/tuple
+    - 30.224408
+    - -93.867639
+  - !!python/tuple
+    - 30.224408
+    - -93.86773
+  - !!python/tuple
+    - 30.224282
+    - -93.867731
+  - !!python/tuple
+    - 30.224282
+    - -93.867676
+  - !!python/tuple
+    - 30.224338
+    - -93.867675
+  - !!python/tuple
+    - 30.224338
+    - -93.867639
+  - !!python/tuple
+    - 30.224368
+    - -93.8665
+  - !!python/tuple
+    - 30.224416
+    - -93.866604
+  - !!python/tuple
+    - 30.224368
+    - -93.8665
+  street_count: 1
+  x: -93.867365
+  y: 30.223297
+- cost: -26
+  id: 227834608
+  major_damage: []
+  minor_damage:
+  - !!python/tuple
+    - 30.226016
+    - -93.869512
+  - !!python/tuple
+    - 30.226111
+    - -93.869513
+  - !!python/tuple
+    - 30.226108
+    - -93.869722
+  - !!python/tuple
+    - 30.225972
+    - -93.86972
+  - !!python/tuple
+    - 30.225973
+    - -93.869617
+  - !!python/tuple
+    - 30.226015
+    - -93.869618
+  - !!python/tuple
+    - 30.226016
+    - -93.869512
+  - !!python/tuple
+    - 30.227733
+    - -93.868603
+  - !!python/tuple
+    - 30.227822
+    - -93.868702
+  - !!python/tuple
+    - 30.227766
+    - -93.868699
+  - !!python/tuple
+    - 30.227767
+    - -93.868661
+  - !!python/tuple
+    - 30.227731
+    - -93.868659
+  - !!python/tuple
+    - 30.227733
+    - -93.868603
+  street_count: 1
+  x: -93.869766
+  y: 30.226844

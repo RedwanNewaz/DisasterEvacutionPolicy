@@ -1,0 +1,2022 @@
+directed: true
+graph:
+  created_date: '2024-12-30 20:59:48'
+  created_with: OSMnx 1.9.4
+  crs: epsg:4326
+  simplified: true
+links:
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    0SLb+X6iZEA=
+  name: West Elm Avenue
+  oneway: false
+  osmid: 21170610
+  reversed: true
+  source: 227652138
+  target: 227716577
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    g8DKoUUmRUA=
+  name: Simmons Drive
+  oneway: false
+  osmid: 139260312
+  ref: US 90 Bus
+  reversed: false
+  source: 227652138
+  target: 3128895239
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    i2zn+6lBYEA=
+  name: Simmons Drive
+  oneway: false
+  osmid: 139260312
+  ref: US 90 Bus
+  reversed: true
+  source: 227652138
+  target: 227766234
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    f2q8dJPYYkA=
+  name: West Orange Avenue
+  oneway: false
+  osmid: 21169033
+  reversed: false
+  source: 227710404
+  target: 227710408
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sHJoke0cW0A=
+  name: Simmons Drive
+  oneway: false
+  osmid: 139260312
+  ref: US 90 Bus
+  reversed: false
+  source: 227710404
+  target: 227766228
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7FG4HoW7W0A=
+  name: West Orange Avenue
+  oneway: false
+  osmid: 21169033
+  reversed: false
+  source: 227710408
+  target: 227710412
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    f2q8dJPYYkA=
+  name: West Orange Avenue
+  oneway: false
+  osmid: 21169033
+  reversed: true
+  source: 227710408
+  target: 227710404
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YhBYObQQW0A=
+  name: Mill Street
+  oneway: false
+  osmid: 21169474
+  reversed: false
+  source: 227710408
+  target: 227716570
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7FG4HoW7W0A=
+  name: West Orange Avenue
+  oneway: false
+  osmid: 21169033
+  reversed: true
+  source: 227710412
+  target: 227710408
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /Knx0k0SW0A=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: false
+  source: 227710412
+  target: 227772643
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YhBYObQQW0A=
+  name: Mill Street
+  oneway: false
+  osmid: 21169474
+  reversed: true
+  source: 227716570
+  target: 227710408
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    iUFg5dCyY0A=
+  name: West Cypress Avenue
+  oneway: false
+  osmid: 21177623
+  reversed: false
+  source: 227716570
+  target: 227766228
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jZduEoNYW0A=
+  name: West Cypress Avenue
+  oneway: false
+  osmid: 21177623
+  reversed: true
+  source: 227716570
+  target: 227772643
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAA+U4nNKRuV8Db3QN0Xxg+QFkEtc6ublfAskrpmV4YPkAQASyXsm5XwDVxvExeGD5A
+    DjrX5rVuV8CIE/MHXhg+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3Pl+arz8WUA=
+  name: Pine Avenue
+  oneway: false
+  osmid: 21176168
+  reversed: false
+  source: 227716574
+  target: 227772647
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAA+U4nNKRuV8Db3QN0Xxg+QEcXQJ2XblfA7FxidmAYPkACiBY0iG5XwIe/y7FhGD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ppvEILCOZEA=
+  name: Pine Avenue
+  oneway: false
+  osmid: 21176168
+  reversed: true
+  source: 227716574
+  target: 227766234
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAA+U4nNKRuV8Db3QN0Xxg+QOgRSC6kblfA54JEJFQYPkCmIroMpG5XwItx/iYUGD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DAIrhxbxX0A=
+  name: Mill Street
+  oneway: false
+  osmid: 1161792078
+  reversed: false
+  source: 227716574
+  target: 227716577
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0SLb+X6iZEA=
+  name: West Elm Avenue
+  oneway: false
+  osmid: 21170610
+  reversed: false
+  source: 227716577
+  target: 227652138
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NV66SQzqWUA=
+  name: West Elm Avenue
+  oneway: false
+  osmid: 21170610
+  reversed: true
+  source: 227716577
+  target: 227733306
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    exSuR+ECWUA=
+  name: Mill Street
+  oneway: false
+  osmid: 1161792078
+  reversed: false
+  source: 227716577
+  target: 227716581
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAApiK6DKRuV8CLcf4mFBg+QOgRSC6kblfA54JEJFQYPkD5Tic0pG5XwNvdA3RfGD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DAIrhxbxX0A=
+  name: Mill Street
+  oneway: false
+  osmid: 1161792078
+  reversed: true
+  source: 227716577
+  target: 227716574
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0SLb+X7CXUA=
+  maxspeed: 30 mph
+  name: Green Avenue
+  oneway: false
+  osmid: 307685775
+  ref: US 90 Bus
+  reversed: false
+  source: 227716581
+  target: 3128895243
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    I9v5fmrcWUA=
+  maxspeed: 30 mph
+  name: Green Avenue
+  oneway: false
+  osmid: 307685775
+  ref: US 90 Bus
+  reversed: true
+  source: 227716581
+  target: 227728235
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    001iEFgZW0A=
+  name: Mill Street
+  oneway: false
+  osmid: 1161792078
+  reversed: false
+  source: 227716581
+  target: 227716584
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    exSuR+ECWUA=
+  name: Mill Street
+  oneway: false
+  osmid: 1161792078
+  reversed: true
+  source: 227716581
+  target: 227716577
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XrpJDAKbZEA=
+  name: Main Avenue
+  oneway: false
+  osmid: 156889643
+  reversed: false
+  source: 227716584
+  target: 227766241
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yXa+nxrPWUA=
+  name: Main Avenue
+  oneway: false
+  osmid: 156889643
+  reversed: true
+  source: 227716584
+  target: 227769723
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    001iEFgZW0A=
+  name: Mill Street
+  oneway: false
+  osmid: 1161792078
+  reversed: true
+  source: 227716584
+  target: 227716581
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dZMYBFbuWEA=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: true
+  source: 227728235
+  target: 227733306
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    I9v5fmrcWUA=
+  maxspeed: 30 mph
+  name: Green Avenue
+  oneway: false
+  osmid: 307685775
+  ref: US 90 Bus
+  reversed: false
+  source: 227728235
+  target: 227716581
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAA5Uf8irVuV8DqjJTS2Bc+QJc3h2u1blfAxiI8kKsXPkBKPhtetW5XwLKFe8CXFz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /Knx0k2aW0A=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: false
+  source: 227728235
+  target: 227769723
+- highway: tertiary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    F9nO91ODWkA=
+  name: Simmons Drive
+  oneway: false
+  osmid: 143685351
+  reversed: false
+  source: 227728238
+  target: 227766241
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VOOlm8TARkA=
+  name: Green Avenue
+  oneway: false
+  osmid: 307686148
+  ref: US 90 Bus
+  reversed: true
+  source: 227728238
+  target: 3128895243
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAAGm7A54duV8DAIVSp2Rc+QC0+BcB4blfAeA360tsXPkBsWikEcm5XwAOWXMXiFz5A
+    NIhqpWtuV8DwZrIk5Rc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dZMYBFb+ZEA=
+  name: East Green Avenue
+  oneway: false
+  osmid: 21177372
+  reversed: false
+  source: 227728238
+  target: 227757468
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAGm7A54duV8DAIVSp2Rc+QAIs8uuHblfA8nub/uwXPkAsq5/th25XwKPvyR78Fz5A
+  highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sp3vp8Y7TUA=
+  name: Simmons Drive
+  oneway: false
+  osmid: 568611995
+  ref: US 90 Bus
+  reversed: true
+  source: 227728238
+  target: 3128895239
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NV66SQzqWUA=
+  name: West Elm Avenue
+  oneway: false
+  osmid: 21170610
+  reversed: false
+  source: 227733306
+  target: 227716577
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dZMYBFbuWEA=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: false
+  source: 227733306
+  target: 227728235
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    JQaBlUOTX0A=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: true
+  source: 227733306
+  target: 227772647
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAANIhqpWtuV8DwZrIk5Rc+QGxaKQRyblfAA5ZcxeIXPkAtPgXAeG5XwHgN+tLbFz5A
+    Gm7A54duV8DAIVSp2Rc+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dJMYBFb+ZEA=
+  name: East Green Avenue
+  oneway: false
+  osmid: 21177372
+  reversed: true
+  source: 227757468
+  target: 227728238
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    iUFg5dCyY0A=
+  name: West Cypress Avenue
+  oneway: false
+  osmid: 21177623
+  reversed: true
+  source: 227766228
+  target: 227716570
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sHJoke0cW0A=
+  name: Simmons Drive
+  oneway: false
+  osmid: 139260312
+  ref: US 90 Bus
+  reversed: true
+  source: 227766228
+  target: 227710404
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAzHG4oIhuV8D6DKg3oxg+QPBKNy6IblfArJysB4IYPkACiBY0iG5XwIe/y7FhGD5A
+  highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5dAi2/nOW0A=
+  name: Simmons Drive
+  oneway: false
+  osmid: 139260312
+  ref: US 90 Bus
+  reversed: false
+  source: 227766228
+  target: 227766234
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    i2zn+6lBYEA=
+  name: Simmons Drive
+  oneway: false
+  osmid: 139260312
+  ref: US 90 Bus
+  reversed: false
+  source: 227766234
+  target: 227652138
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAAogWNIhuV8CHv8uxYRg+QEcXQJ2XblfA7FxidmAYPkD5Tic0pG5XwNvdA3RfGD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ppvEILCOZEA=
+  name: Pine Avenue
+  oneway: false
+  osmid: 21176168
+  reversed: false
+  source: 227766234
+  target: 227716574
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAAAogWNIhuV8CHv8uxYRg+QPBKNy6IblfArJysB4IYPkDMcbigiG5XwPoMqDejGD5A
+  highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5dAi2/nOW0A=
+  name: Simmons Drive
+  oneway: false
+  osmid: 139260312
+  ref: US 90 Bus
+  reversed: true
+  source: 227766234
+  target: 227766228
+- highway: tertiary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    F9nO91ODWkA=
+  name: Simmons Drive
+  oneway: false
+  osmid: 143685351
+  reversed: true
+  source: 227766241
+  target: 227728238
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XrpJDAKbZEA=
+  name: Main Avenue
+  oneway: false
+  osmid: 156889643
+  reversed: true
+  source: 227766241
+  target: 227716584
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yXa+nxrPWUA=
+  name: Main Avenue
+  oneway: false
+  osmid: 156889643
+  reversed: false
+  source: 227769723
+  target: 227716584
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAASj4bXrVuV8CyhXvAlxc+QJc3h2u1blfAxiI8kKsXPkDlR/yKtW5XwOqMlNLYFz5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /Knx0k2aW0A=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: true
+  source: 227769723
+  target: 227728235
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /Knx0k0SW0A=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: true
+  source: 227772643
+  target: 227710412
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jZduEoNYW0A=
+  name: West Cypress Avenue
+  oneway: false
+  osmid: 21177623
+  reversed: false
+  source: 227772643
+  target: 227716570
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAA0sJlFbZuV8DSPUbUnxg+QCCOv/61blfAALvkyX8YPkAOOtfmtW5XwIgT8wdeGD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4noUrkfpW0A=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: false
+  source: 227772643
+  target: 227772647
+- highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    JQaBlUOTX0A=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: false
+  source: 227772647
+  target: 227733306
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAADjrX5rVuV8CIE/MHXhg+QCCOv/61blfAALvkyX8YPkDSwmUVtm5XwNI9RtSfGD5A
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4noUrkfpW0A=
+  name: 1st Street
+  oneway: false
+  osmid: 21173498
+  reversed: true
+  source: 227772647
+  target: 227772643
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAEAAAADjrX5rVuV8CIE/MHXhg+QBABLJeyblfANXG8TF4YPkBZBLXOrm5XwLJK6ZleGD5A
+    +U4nNKRuV8Db3QN0Xxg+QA==
+  highway: residential
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2/l+arz8WUA=
+  name: Pine Avenue
+  oneway: false
+  osmid: 21176168
+  reversed: true
+  source: 227772647
+  target: 227716574
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    g8DKoUUmRUA=
+  name: Simmons Drive
+  oneway: false
+  osmid: 139260312
+  ref: US 90 Bus
+  reversed: true
+  source: 3128895239
+  target: 227652138
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAAFAAAALKuf7YduV8Cj78ke/Bc+QA0wmGSJblfAkQJV7eQXPkCorKbriW5XwJm3j4HhFz5A
+    +nMbHoxuV8AYdVIE3Rc+QBZQqKePblfAcyjom9kXPkA=
+  highway: secondary_link
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bhKDwMrZVEA=
+  oneway: true
+  osmid: 307686147
+  ref: US 90 Bus
+  reversed: false
+  source: 3128895239
+  target: 3128895243
+- geometry: !!python/object/apply:shapely.io.from_wkb
+  - !!binary |
+    AQIAAAADAAAALKuf7YduV8Cj78ke/Bc+QAIs8uuHblfA8nub/uwXPkAabsDnh25XwMAhVKnZFz5A
+  highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sp3vp8Y7TUA=
+  name: Simmons Drive
+  oneway: false
+  osmid: 568611995
+  ref: US 90 Bus
+  reversed: false
+  source: 3128895239
+  target: 227728238
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0SLb+X7CXUA=
+  maxspeed: 30 mph
+  name: Green Avenue
+  oneway: false
+  osmid: 307685775
+  ref: US 90 Bus
+  reversed: true
+  source: 3128895243
+  target: 227716581
+- highway: secondary
+  length: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VOOlm8TARkA=
+  name: Green Avenue
+  oneway: false
+  osmid: 307686148
+  ref: US 90 Bus
+  reversed: false
+  source: 3128895243
+  target: 227728238
+multigraph: false
+nodes:
+- cost: -36
+  id: 227652138
+  major_damage:
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093418
+    - -93.72833
+  - !!python/tuple
+    - 30.093421
+    - -93.728223
+  - !!python/tuple
+    - 30.093577
+    - -93.728229
+  - !!python/tuple
+    - 30.093574
+    - -93.728317
+  - !!python/tuple
+    - 30.093509
+    - -93.728315
+  - !!python/tuple
+    - 30.09350739566787
+    - -93.72837275595668
+  - !!python/tuple
+    - 30.093575
+    - -93.728371
+  - !!python/tuple
+    - 30.093575
+    - -93.728441
+  - !!python/tuple
+    - 30.093499
+    - -93.728442
+  - !!python/tuple
+    - 30.093498198231654
+    - -93.72838667798409
+  - !!python/tuple
+    - 30.093425
+    - -93.728384
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093074
+    - -93.726065
+  - !!python/tuple
+    - 30.093079
+    - -93.726291
+  - !!python/tuple
+    - 30.092982
+    - -93.726294
+  - !!python/tuple
+    - 30.09348
+    - -93.725917
+  - !!python/tuple
+    - 30.093592
+    - -93.725919
+  - !!python/tuple
+    - 30.09359
+    - -93.72611
+  - !!python/tuple
+    - 30.093477
+    - -93.726108
+  - !!python/tuple
+    - 30.09348
+    - -93.725917
+  minor_damage:
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.093036
+    - -93.727885
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  street_count: 3
+  x: -93.727047
+  y: 30.0940712
+- cost: 0
+  id: 227710404
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.7271542
+  y: 30.0972142
+- cost: 0
+  id: 227710408
+  major_damage: []
+  minor_damage: []
+  street_count: 4
+  x: -93.728721
+  y: 30.0971844
+- cost: 0
+  id: 227710412
+  major_damage: []
+  minor_damage: []
+  street_count: 4
+  x: -93.7298738
+  y: 30.0971626
+- cost: 0
+  id: 227716570
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.7287268
+  y: 30.0962108
+- cost: 0
+  id: 227716574
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.7287722
+  y: 30.0952065
+- cost: -156
+  id: 227716577
+  major_damage:
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.092886
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.728475
+  - !!python/tuple
+    - 30.092884
+    - -93.728475
+  - !!python/tuple
+    - 30.092885
+    - -93.728585
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093418
+    - -93.72833
+  - !!python/tuple
+    - 30.093421
+    - -93.728223
+  - !!python/tuple
+    - 30.093577
+    - -93.728229
+  - !!python/tuple
+    - 30.093574
+    - -93.728317
+  - !!python/tuple
+    - 30.093509
+    - -93.728315
+  - !!python/tuple
+    - 30.09350739566787
+    - -93.72837275595668
+  - !!python/tuple
+    - 30.093575
+    - -93.728371
+  - !!python/tuple
+    - 30.093575
+    - -93.728441
+  - !!python/tuple
+    - 30.093499
+    - -93.728442
+  - !!python/tuple
+    - 30.093498198231654
+    - -93.72838667798409
+  - !!python/tuple
+    - 30.093425
+    - -93.728384
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  - !!python/tuple
+    - 30.093051
+    - -93.728942
+  - !!python/tuple
+    - 30.092983
+    - -93.72894
+  - !!python/tuple
+    - 30.092982
+    - -93.729034
+  - !!python/tuple
+    - 30.092893
+    - -93.729032
+  - !!python/tuple
+    - 30.092896
+    - -93.728871
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  minor_damage:
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.093414
+    - -93.728553
+  - !!python/tuple
+    - 30.093549
+    - -93.728548
+  - !!python/tuple
+    - 30.093552
+    - -93.728639
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093012
+    - -93.728092
+  - !!python/tuple
+    - 30.093015
+    - -93.728215
+  - !!python/tuple
+    - 30.092915
+    - -93.728218
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.093036
+    - -93.727885
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  street_count: 4
+  x: -93.7287628
+  y: 30.0940575
+- cost: -180
+  id: 227716581
+  major_damage:
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.092886
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.728475
+  - !!python/tuple
+    - 30.092884
+    - -93.728475
+  - !!python/tuple
+    - 30.092885
+    - -93.728585
+  - !!python/tuple
+    - 30.092694
+    - -93.728587
+  - !!python/tuple
+    - 30.092693
+    - -93.728459
+  - !!python/tuple
+    - 30.092718
+    - -93.728458
+  - !!python/tuple
+    - 30.092717
+    - -93.728312
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093418
+    - -93.72833
+  - !!python/tuple
+    - 30.093421
+    - -93.728223
+  - !!python/tuple
+    - 30.093577
+    - -93.728229
+  - !!python/tuple
+    - 30.093574
+    - -93.728317
+  - !!python/tuple
+    - 30.093509
+    - -93.728315
+  - !!python/tuple
+    - 30.09350739566787
+    - -93.72837275595668
+  - !!python/tuple
+    - 30.093575
+    - -93.728371
+  - !!python/tuple
+    - 30.093575
+    - -93.728441
+  - !!python/tuple
+    - 30.093499
+    - -93.728442
+  - !!python/tuple
+    - 30.093498198231654
+    - -93.72838667798409
+  - !!python/tuple
+    - 30.093425
+    - -93.728384
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  - !!python/tuple
+    - 30.093051
+    - -93.728942
+  - !!python/tuple
+    - 30.092983
+    - -93.72894
+  - !!python/tuple
+    - 30.092982
+    - -93.729034
+  - !!python/tuple
+    - 30.092893
+    - -93.729032
+  - !!python/tuple
+    - 30.092896
+    - -93.728871
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  minor_damage:
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.093414
+    - -93.728553
+  - !!python/tuple
+    - 30.093549
+    - -93.728548
+  - !!python/tuple
+    - 30.093552
+    - -93.728639
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093012
+    - -93.728092
+  - !!python/tuple
+    - 30.093015
+    - -93.728215
+  - !!python/tuple
+    - 30.092915
+    - -93.728218
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.092842
+    - -93.727966
+  - !!python/tuple
+    - 30.092844
+    - -93.72788
+  - !!python/tuple
+    - 30.093036
+    - -93.727885
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  street_count: 4
+  x: -93.7287553
+  y: 30.0931578
+- cost: -156
+  id: 227716584
+  major_damage:
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.092886
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.728475
+  - !!python/tuple
+    - 30.092884
+    - -93.728475
+  - !!python/tuple
+    - 30.092885
+    - -93.728585
+  - !!python/tuple
+    - 30.092694
+    - -93.728587
+  - !!python/tuple
+    - 30.092693
+    - -93.728459
+  - !!python/tuple
+    - 30.092718
+    - -93.728458
+  - !!python/tuple
+    - 30.092717
+    - -93.728312
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093418
+    - -93.72833
+  - !!python/tuple
+    - 30.093421
+    - -93.728223
+  - !!python/tuple
+    - 30.093499
+    - -93.728442
+  - !!python/tuple
+    - 30.093498198231654
+    - -93.72838667798409
+  - !!python/tuple
+    - 30.093425
+    - -93.728384
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  - !!python/tuple
+    - 30.093051
+    - -93.728942
+  - !!python/tuple
+    - 30.092983
+    - -93.72894
+  - !!python/tuple
+    - 30.092982
+    - -93.729034
+  - !!python/tuple
+    - 30.092893
+    - -93.729032
+  - !!python/tuple
+    - 30.092896
+    - -93.728871
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  minor_damage:
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.093414
+    - -93.728553
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093012
+    - -93.728092
+  - !!python/tuple
+    - 30.093015
+    - -93.728215
+  - !!python/tuple
+    - 30.092915
+    - -93.728218
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.092842
+    - -93.727966
+  - !!python/tuple
+    - 30.092844
+    - -93.72788
+  - !!python/tuple
+    - 30.093036
+    - -93.727885
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  street_count: 4
+  x: -93.7287471
+  y: 30.092183
+- cost: -60
+  id: 227728235
+  major_damage:
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.092886
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.728475
+  - !!python/tuple
+    - 30.092884
+    - -93.728475
+  - !!python/tuple
+    - 30.092885
+    - -93.728585
+  - !!python/tuple
+    - 30.092694
+    - -93.728587
+  - !!python/tuple
+    - 30.092693
+    - -93.728459
+  - !!python/tuple
+    - 30.092718
+    - -93.728458
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093418
+    - -93.72833
+  - !!python/tuple
+    - 30.09350739566787
+    - -93.72837275595668
+  - !!python/tuple
+    - 30.093575
+    - -93.728371
+  - !!python/tuple
+    - 30.093575
+    - -93.728441
+  - !!python/tuple
+    - 30.093499
+    - -93.728442
+  - !!python/tuple
+    - 30.093498198231654
+    - -93.72838667798409
+  - !!python/tuple
+    - 30.093425
+    - -93.728384
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  - !!python/tuple
+    - 30.093051
+    - -93.728942
+  - !!python/tuple
+    - 30.092983
+    - -93.72894
+  - !!python/tuple
+    - 30.092982
+    - -93.729034
+  - !!python/tuple
+    - 30.092893
+    - -93.729032
+  - !!python/tuple
+    - 30.092896
+    - -93.728871
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  minor_damage:
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.093414
+    - -93.728553
+  - !!python/tuple
+    - 30.093549
+    - -93.728548
+  - !!python/tuple
+    - 30.093552
+    - -93.728639
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  street_count: 4
+  x: -93.7298305
+  y: 30.0931522
+- cost: -168
+  id: 227728238
+  major_damage:
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.092886
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.728475
+  - !!python/tuple
+    - 30.092884
+    - -93.728475
+  - !!python/tuple
+    - 30.092693
+    - -93.728459
+  - !!python/tuple
+    - 30.092718
+    - -93.728458
+  - !!python/tuple
+    - 30.092717
+    - -93.728312
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093418
+    - -93.72833
+  - !!python/tuple
+    - 30.093421
+    - -93.728223
+  - !!python/tuple
+    - 30.093577
+    - -93.728229
+  - !!python/tuple
+    - 30.093574
+    - -93.728317
+  - !!python/tuple
+    - 30.093509
+    - -93.728315
+  - !!python/tuple
+    - 30.09350739566787
+    - -93.72837275595668
+  - !!python/tuple
+    - 30.093575
+    - -93.728371
+  - !!python/tuple
+    - 30.093575
+    - -93.728441
+  - !!python/tuple
+    - 30.093499
+    - -93.728442
+  - !!python/tuple
+    - 30.093498198231654
+    - -93.72838667798409
+  - !!python/tuple
+    - 30.093425
+    - -93.728384
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  - !!python/tuple
+    - 30.093074
+    - -93.726065
+  - !!python/tuple
+    - 30.093079
+    - -93.726291
+  - !!python/tuple
+    - 30.092982
+    - -93.726294
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  - !!python/tuple
+    - 30.09348
+    - -93.725917
+  - !!python/tuple
+    - 30.093592
+    - -93.725919
+  - !!python/tuple
+    - 30.09359
+    - -93.72611
+  - !!python/tuple
+    - 30.093477
+    - -93.726108
+  - !!python/tuple
+    - 30.09348
+    - -93.725917
+  minor_damage:
+  - !!python/tuple
+    - 30.093414
+    - -93.728553
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093012
+    - -93.728092
+  - !!python/tuple
+    - 30.093015
+    - -93.728215
+  - !!python/tuple
+    - 30.092915
+    - -93.728218
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.092842
+    - -93.727966
+  - !!python/tuple
+    - 30.092844
+    - -93.72788
+  - !!python/tuple
+    - 30.093036
+    - -93.727885
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.093149
+    - -93.725902
+  - !!python/tuple
+    - 30.092962
+    - -93.725901
+  - !!python/tuple
+    - 30.093149
+    - -93.725902
+  street_count: 4
+  x: -93.727045
+  y: 30.093165
+- cost: -60
+  id: 227733306
+  major_damage:
+  - !!python/tuple
+    - 30.093575
+    - -93.728441
+  - !!python/tuple
+    - 30.093499
+    - -93.728442
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  - !!python/tuple
+    - 30.093051
+    - -93.728942
+  - !!python/tuple
+    - 30.092983
+    - -93.72894
+  - !!python/tuple
+    - 30.092982
+    - -93.729034
+  - !!python/tuple
+    - 30.092893
+    - -93.729032
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  minor_damage:
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.093414
+    - -93.728553
+  - !!python/tuple
+    - 30.093549
+    - -93.728548
+  - !!python/tuple
+    - 30.093552
+    - -93.728639
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  street_count: 3
+  x: -93.7298402
+  y: 30.094049
+- cost: -60
+  id: 227757468
+  major_damage:
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  - !!python/tuple
+    - 30.093074
+    - -93.726065
+  - !!python/tuple
+    - 30.093079
+    - -93.726291
+  - !!python/tuple
+    - 30.092982
+    - -93.726294
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  - !!python/tuple
+    - 30.09348
+    - -93.725917
+  - !!python/tuple
+    - 30.093592
+    - -93.725919
+  - !!python/tuple
+    - 30.09359
+    - -93.72611
+  - !!python/tuple
+    - 30.093477
+    - -93.726108
+  - !!python/tuple
+    - 30.09348
+    - -93.725917
+  minor_damage:
+  - !!python/tuple
+    - 30.093149
+    - -93.725902
+  - !!python/tuple
+    - 30.092962
+    - -93.725901
+  - !!python/tuple
+    - 30.092967
+    - -93.72534
+  - !!python/tuple
+    - 30.093154
+    - -93.725342
+  - !!python/tuple
+    - 30.093149
+    - -93.725902
+  street_count: 1
+  x: -93.7253202
+  y: 30.0933402
+- cost: 0
+  id: 227766228
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.7270891
+  y: 30.0962405
+- cost: 0
+  id: 227766234
+  major_damage: []
+  minor_damage: []
+  street_count: 3
+  x: -93.7270632
+  y: 30.0952407
+- cost: -132
+  id: 227766241
+  major_damage:
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.092693
+    - -93.728459
+  - !!python/tuple
+    - 30.092718
+    - -93.728458
+  - !!python/tuple
+    - 30.092717
+    - -93.728312
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  - !!python/tuple
+    - 30.093074
+    - -93.726065
+  - !!python/tuple
+    - 30.093079
+    - -93.726291
+  - !!python/tuple
+    - 30.092982
+    - -93.726294
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  minor_damage:
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093012
+    - -93.728092
+  - !!python/tuple
+    - 30.093015
+    - -93.728215
+  - !!python/tuple
+    - 30.092915
+    - -93.728218
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.092842
+    - -93.727966
+  - !!python/tuple
+    - 30.092844
+    - -93.72788
+  - !!python/tuple
+    - 30.093036
+    - -93.727885
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.092962
+    - -93.725901
+  street_count: 3
+  x: -93.727034
+  y: 30.0922113
+- cost: 0
+  id: 227769723
+  major_damage:
+  - !!python/tuple
+    - 30.092885
+    - -93.728585
+  - !!python/tuple
+    - 30.092694
+    - -93.728587
+  - !!python/tuple
+    - 30.092693
+    - -93.728459
+  - !!python/tuple
+    - 30.092718
+    - -93.728458
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  - !!python/tuple
+    - 30.093051
+    - -93.728942
+  - !!python/tuple
+    - 30.092983
+    - -93.72894
+  - !!python/tuple
+    - 30.092982
+    - -93.729034
+  - !!python/tuple
+    - 30.092893
+    - -93.729032
+  - !!python/tuple
+    - 30.092896
+    - -93.728871
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  minor_damage: []
+  street_count: 3
+  x: -93.7298198
+  y: 30.0921593
+- cost: 0
+  id: 227772643
+  major_damage: []
+  minor_damage: []
+  street_count: 4
+  x: -93.7298635
+  y: 30.0961888
+- cost: 0
+  id: 227772647
+  major_damage: []
+  minor_damage: []
+  street_count: 4
+  x: -93.7298524
+  y: 30.0951848
+- cost: -180
+  id: 3128895239
+  major_damage:
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093418
+    - -93.72833
+  - !!python/tuple
+    - 30.093421
+    - -93.728223
+  - !!python/tuple
+    - 30.093577
+    - -93.728229
+  - !!python/tuple
+    - 30.093574
+    - -93.728317
+  - !!python/tuple
+    - 30.093509
+    - -93.728315
+  - !!python/tuple
+    - 30.09350739566787
+    - -93.72837275595668
+  - !!python/tuple
+    - 30.093575
+    - -93.728371
+  - !!python/tuple
+    - 30.093575
+    - -93.728441
+  - !!python/tuple
+    - 30.093499
+    - -93.728442
+  - !!python/tuple
+    - 30.093498198231654
+    - -93.72838667798409
+  - !!python/tuple
+    - 30.093425
+    - -93.728384
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  - !!python/tuple
+    - 30.093074
+    - -93.726065
+  - !!python/tuple
+    - 30.093079
+    - -93.726291
+  - !!python/tuple
+    - 30.092982
+    - -93.726294
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  - !!python/tuple
+    - 30.09348
+    - -93.725917
+  - !!python/tuple
+    - 30.093592
+    - -93.725919
+  - !!python/tuple
+    - 30.09359
+    - -93.72611
+  - !!python/tuple
+    - 30.093477
+    - -93.726108
+  - !!python/tuple
+    - 30.09348
+    - -93.725917
+  minor_damage:
+  - !!python/tuple
+    - 30.093414
+    - -93.728553
+  - !!python/tuple
+    - 30.093549
+    - -93.728548
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093012
+    - -93.728092
+  - !!python/tuple
+    - 30.093015
+    - -93.728215
+  - !!python/tuple
+    - 30.092915
+    - -93.728218
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.092842
+    - -93.727966
+  - !!python/tuple
+    - 30.092844
+    - -93.72788
+  - !!python/tuple
+    - 30.093036
+    - -93.727885
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.093149
+    - -93.725902
+  - !!python/tuple
+    - 30.092962
+    - -93.725901
+  - !!python/tuple
+    - 30.093149
+    - -93.725902
+  street_count: 3
+  x: -93.7270464
+  y: 30.0936908
+- cost: -180
+  id: 3128895243
+  major_damage:
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.092886
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.7284
+  - !!python/tuple
+    - 30.092953
+    - -93.728475
+  - !!python/tuple
+    - 30.092884
+    - -93.728475
+  - !!python/tuple
+    - 30.092885
+    - -93.728585
+  - !!python/tuple
+    - 30.092694
+    - -93.728587
+  - !!python/tuple
+    - 30.092693
+    - -93.728459
+  - !!python/tuple
+    - 30.092718
+    - -93.728458
+  - !!python/tuple
+    - 30.092717
+    - -93.728312
+  - !!python/tuple
+    - 30.092885
+    - -93.728311
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093418
+    - -93.72833
+  - !!python/tuple
+    - 30.093421
+    - -93.728223
+  - !!python/tuple
+    - 30.093577
+    - -93.728229
+  - !!python/tuple
+    - 30.093574
+    - -93.728317
+  - !!python/tuple
+    - 30.093509
+    - -93.728315
+  - !!python/tuple
+    - 30.09350739566787
+    - -93.72837275595668
+  - !!python/tuple
+    - 30.093575
+    - -93.728371
+  - !!python/tuple
+    - 30.093575
+    - -93.728441
+  - !!python/tuple
+    - 30.093499
+    - -93.728442
+  - !!python/tuple
+    - 30.093498198231654
+    - -93.72838667798409
+  - !!python/tuple
+    - 30.093425
+    - -93.728384
+  - !!python/tuple
+    - 30.093426
+    - -93.72833
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  - !!python/tuple
+    - 30.093051
+    - -93.728942
+  - !!python/tuple
+    - 30.092983
+    - -93.72894
+  - !!python/tuple
+    - 30.092982
+    - -93.729034
+  - !!python/tuple
+    - 30.092893
+    - -93.729032
+  - !!python/tuple
+    - 30.092896
+    - -93.728871
+  - !!python/tuple
+    - 30.093052
+    - -93.728875
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  - !!python/tuple
+    - 30.093074
+    - -93.726065
+  - !!python/tuple
+    - 30.093079
+    - -93.726291
+  - !!python/tuple
+    - 30.092982
+    - -93.726294
+  - !!python/tuple
+    - 30.092977
+    - -93.726068
+  - !!python/tuple
+    - 30.09359
+    - -93.72611
+  - !!python/tuple
+    - 30.093477
+    - -93.726108
+  minor_damage:
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.093414
+    - -93.728553
+  - !!python/tuple
+    - 30.093549
+    - -93.728548
+  - !!python/tuple
+    - 30.093552
+    - -93.728639
+  - !!python/tuple
+    - 30.093416
+    - -93.728644
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093012
+    - -93.728092
+  - !!python/tuple
+    - 30.093015
+    - -93.728215
+  - !!python/tuple
+    - 30.092915
+    - -93.728218
+  - !!python/tuple
+    - 30.092913
+    - -93.728095
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  - !!python/tuple
+    - 30.092842
+    - -93.727966
+  - !!python/tuple
+    - 30.092844
+    - -93.72788
+  - !!python/tuple
+    - 30.093036
+    - -93.727885
+  - !!python/tuple
+    - 30.093034
+    - -93.727971
+  street_count: 3
+  x: -93.727518
+  y: 30.0931642
