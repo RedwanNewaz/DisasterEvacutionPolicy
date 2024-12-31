@@ -1,9 +1,7 @@
-device: "cuda"
-seed: 3
 
 # algorithmic components
 defaults:
-  - dataset: Canyon-Gate-Blvd-TX
+  - dataset: Orange-TX
 #  - agent: IQN
 
 hydra:

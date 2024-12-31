@@ -7,6 +7,7 @@ import yaml
 from Algos import PolicyIteration
 from shapely.geometry import LineString
 from matplotlib.patches import FancyArrowPatch
+from math import exp
 
 def visualize_policy(G, policy):
     # Create a MultiDiGraph copy of the original graph
@@ -50,6 +51,9 @@ def main(cfg: DictConfig) -> None:
 
     # Convert the data back to a NetworkX graph
     G = nx.node_link_graph(graph_data, edges="links")
+
+    for node in G.nodes():
+        G.nodes[node]['cost'] = exp(-G.nodes[node]['cost'])
 
     pi = PolicyIteration(G)
     optimal_policy, value_function, iterations = pi.run()
