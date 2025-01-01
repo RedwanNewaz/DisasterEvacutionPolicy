@@ -1,8 +1,10 @@
-
+radius: 300
+save: true
+output_path: "Dataset/Canyon-Gate-Blvd-TX/policy.png"
 # algorithmic components
 defaults:
-  - dataset: Orange-TX
-#  - agent: IQN
+  - dataset: Canyon-Gate-Blvd-TX
+
 
 hydra:
   output_subdir: null
